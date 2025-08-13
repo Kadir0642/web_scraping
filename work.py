@@ -1,53 +1,32 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-import time
+import requests
+from bs4 import BeautifulSoup
 import json
 
-options=webdriver.ChromeOptions()
-options.add_argument("--start-maximized")
-driver=webdriver.Chrome(options)
+url="https://tr.wiktionary.org/wiki/Kategori:T%C3%BCrk%C3%A7e_k%C4%B1z_adlar%C4%B1"
 
-driver.get("https://www.turkbitig.com/isimler/kiz.html")
-time.sleep(2)
+all_names=[]
 
-xpath="//a[contains(text(),'AÇELYA')]"
-element=driver.find_element(By.XPATH,xpath)
-link=element.get_attribute("href")
-driver.get(link)
-time.sleep(1)
+while url:
 
-male_data=[]
+    response=requests.get(url)
+    response.encoding="utf-8" #türkçe karakterler düzgün gelsin
+    soup=BeautifulSoup(response.text,"html.parser") # pc nin anlayacağı dil
 
-while True:
+    for tag in soup.select("div.mw-category-group li a"):
+        all_names.append({"title":tag.text})
+        #bulunan sayfadaki bütün isimleri alır
+
+
+    next_link=None
+    #sonraki sayfa butonu arar
+    for a in soup.select("a"):
+        if "sonraki sayfa" in a.text.lower():
+            next_link="https://tr.wiktionary.org"+a["href"]
+            break
     
-    xpath="//div[@class='content100']//b"
-    name=driver.find_element(By.XPATH,xpath).text
-    
-    writing=driver.find_element(By.ID,"isim").text
+    url=next_link
 
-    
-    info={
-        "title":name,
-        "spelling":writing
-    }
-    male_data.append(info) # gelen veriyi kaydediyoruz
+with open("woman_names_bs.json","w",encoding="utf-8")as f:
+    json.dump(all_names,f,ensure_ascii=False,indent=4)
 
-    if name=="ZEYNEP":
-        print("tüm sayfalar tarandi")
-        break
-    else:
-        xpath="//div[@id='prevnext']//a"
-        button=driver.find_elements(By.XPATH,xpath)
-    
-        link=button[1].get_attribute("href") # 2. her zaman sonraki sayfa linkini veriyor
-        driver.get(link)
-        
-
-
-driver.quit()
-print("Veri sayisi:",len(male_data))
-
-with open("woman.json","w",encoding="utf-8") as f:
-    json.dump(male_data,f,indent=4, ensure_ascii=False)
-
-print("Veriler 'woman.json' dosyasina kaydedilmistir")
+print(f"Toplam{len(all_names)} isim kaydedildi.")

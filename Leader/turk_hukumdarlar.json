@@ -1,0 +1,1710 @@
+{
+  "Büyük Hun İmparatorluğu": [
+    {
+      "name": "Teoman (Touman)",
+      "reign_start": 220,
+      "reign_end": 209,
+      "notes": "Hunların bilinen ilk hükümdarı"
+    },
+    {
+      "name": "Mete Han (Modu Chanyu)",
+      "reign_start": 209,
+      "reign_end": 174,
+      "notes": "Hunların en güçlü dönemine taşıyan kağan"
+    },
+    {
+      "name": "Lao-shang (Jiuyanqu Chanyu)",
+      "reign_start": 174,
+      "reign_end": 160,
+      "notes": ""
+    },
+    {
+      "name": "Chün-chen (Gunchen Chanyu)",
+      "reign_start": 160,
+      "reign_end": 126,
+      "notes": ""
+    },
+    {
+      "name": "Yen-ti (Yizhixie Chanyu)",
+      "reign_start": 126,
+      "reign_end": 114,
+      "notes": ""
+    },
+    {
+      "name": "Wu-wei (Wuwei Chanyu)",
+      "reign_start": 114,
+      "reign_end": 105,
+      "notes": ""
+    },
+    {
+      "name": "Hu-di (Huhanye Chanyu)",
+      "reign_start": 105,
+      "reign_end": 101,
+      "notes": "Çin ile diplomasi geliştirdi"
+    },
+    {
+      "name": "Chü-ti (Xulüquanqu Chanyu)",
+      "reign_start": 101,
+      "reign_end": 96,
+      "notes": ""
+    },
+    {
+      "name": "Wu-shih-lu (Wuzhuliu Chanyu)",
+      "reign_start": 96,
+      "reign_end": 85,
+      "notes": ""
+    },
+    {
+      "name": "Hü-lu-ku (Hulugu Chanyu)",
+      "reign_start": 85,
+      "reign_end": 68,
+      "notes": ""
+    },
+    {
+      "name": "Hu-han-ye (Huhanye Chanyu)",
+      "reign_start": 58,
+      "reign_end": 31,
+      "notes": "Çin ile diplomatik ilişkiler geliştirdi"
+    },
+    {
+      "name": "Chih-chi (Zhizhi Chanyu)",
+      "reign_start": 56,
+      "reign_end": 36,
+      "notes": "Batıya yönelip Kazakistan civarlarına ilerledi"
+    }
+  ],
+  "Avrupa Hun İmparatorluğu": [
+    {
+      "name": "Balamir",
+      "reign_start": 375,
+      "reign_end": 395,
+      "notes": "Hunların Avrupa’ya girişi onun döneminde başladı"
+    },
+    {
+      "name": "Uldız (Uldin)",
+      "reign_start": 400,
+      "reign_end": 410,
+      "notes": "Bizans ile ilişkiler kurdu"
+    },
+    {
+      "name": "Karaton",
+      "reign_start": 410,
+      "reign_end": 412,
+      "notes": ""
+    },
+    {
+      "name": "Ruga (Rua/Rugas)",
+      "reign_start": 412,
+      "reign_end": 434,
+      "notes": "Attila’nın amcası, Hunların batıda güçlenmesini sağladı"
+    },
+    {
+      "name": "Bleda (Buda)",
+      "reign_start": 434,
+      "reign_end": 445,
+      "notes": "Attila ile ortak hükümdar oldu, sonra Attila tarafından ortadan kaldırıldı"
+    },
+    {
+      "name": "Attila",
+      "reign_start": 434,
+      "reign_end": 453,
+      "notes": "Hunların en güçlü hükümdarı, 'Tanrının Kırbacı' olarak bilinir"
+    },
+    {
+      "name": "İlek (Ellac)",
+      "reign_start": 453,
+      "reign_end": 454,
+      "notes": "Attila’nın oğlu"
+    },
+    {
+      "name": "Dengizik",
+      "reign_start": 454,
+      "reign_end": 469,
+      "notes": "Attila’nın oğlu, Hunların son hükümdarlarından"
+    }
+  ],
+  "Göktürk Kağanlığı": {
+    "Doğu Göktürkler": [
+      {
+        "name": "Bumin Kağan",
+        "reign_start": 552,
+        "reign_end": 553,
+        "notes": "Göktürklerin kurucusu"
+      },
+      {
+        "name": "İstemi Yabgu",
+        "reign_start": 553,
+        "reign_end": 576,
+        "notes": "Batıda etkili, İpek Yolu’nun kontrolünü sağladı"
+      },
+      {
+        "name": "Kara Kağan",
+        "reign_start": 553,
+        "reign_end": 554,
+        "notes": ""
+      },
+      {
+        "name": "Mukan Kağan",
+        "reign_start": 553,
+        "reign_end": 572,
+        "notes": "Göktürkleri en güçlü devreye taşıdı"
+      },
+      {
+        "name": "Tapo Kağan",
+        "reign_start": 572,
+        "reign_end": 581,
+        "notes": ""
+      },
+      {
+        "name": "İşbara Kağan",
+        "reign_start": 581,
+        "reign_end": 587,
+        "notes": ""
+      },
+      {
+        "name": "Bagatur Kağan",
+        "reign_start": 587,
+        "reign_end": 589,
+        "notes": ""
+      },
+      {
+        "name": "Tulan Kağan",
+        "reign_start": 589,
+        "reign_end": 600,
+        "notes": ""
+      },
+      {
+        "name": "Tardu Kağan",
+        "reign_start": 600,
+        "reign_end": 603,
+        "notes": ""
+      }
+    ],
+    "Batı Göktürkler": [
+      {
+        "name": "Tardu Kağan",
+        "reign_start": 576,
+        "reign_end": 603,
+        "notes": "Batıda bağımsız kağan oldu"
+      },
+      {
+        "name": "Şi-bi Kağan",
+        "reign_start": 609,
+        "reign_end": 619,
+        "notes": ""
+      },
+      {
+        "name": "Çulo Kağan",
+        "reign_start": 619,
+        "reign_end": 628,
+        "notes": ""
+      },
+      {
+        "name": "Tung Yabgu Kağan",
+        "reign_start": 618,
+        "reign_end": 630,
+        "notes": "Büyük fetihler yaptı"
+      },
+      {
+        "name": "Seyanto Kağanları",
+        "reign_start": 630,
+        "reign_end": 657,
+        "notes": "Çin etkisi arttı"
+      }
+    ],
+    "II. Göktürkler (Kutluklar)": [
+      {
+        "name": "Kutluk Kağan (İlteriş)",
+        "reign_start": 682,
+        "reign_end": 692,
+        "notes": "Göktürkleri yeniden diriltti"
+      },
+      {
+        "name": "Kapgan Kağan",
+        "reign_start": 692,
+        "reign_end": 716,
+        "notes": "En geniş sınırlar, sert yönetim"
+      },
+      {
+        "name": "Bilge Kağan",
+        "reign_start": 716,
+        "reign_end": 734,
+        "notes": "Orhun Yazıtları dönemi"
+      },
+      {
+        "name": "Kül Tigin",
+        "reign_start": null,
+        "reign_end": 731,
+        "notes": "Prens, Bilge Kağan’ın kardeşi"
+      },
+      {
+        "name": "Bilge Kağan sonrası kağanlar",
+        "reign_start": 734,
+        "reign_end": 744,
+        "notes": "Zayıflama ve Uygurların yükselişi"
+      }
+    ]
+  },
+  "Uygur Kağanlığı": [
+    {
+      "name": "Kutluk Bilge Kül Kağan",
+      "reign_start": 744,
+      "reign_end": 747,
+      "notes": "Uygur Kağanlığı'nın kurucusu"
+    },
+    {
+      "name": "Bayanchur Kağan",
+      "reign_start": 747,
+      "reign_end": 759,
+      "notes": "Uygur Kağanlığı'nı güçlendirdi"
+    },
+    {
+      "name": "Bögü Kağan",
+      "reign_start": 759,
+      "reign_end": 779,
+      "notes": "Maniheizm’i devlet dini yaptı"
+    },
+    {
+      "name": "Alp Kutlug Bilge Kağan",
+      "reign_start": 779,
+      "reign_end": 789,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Bilge Kağan",
+      "reign_start": 789,
+      "reign_end": 790,
+      "notes": ""
+    },
+    {
+      "name": "Külüg Bilge Kağan",
+      "reign_start": 790,
+      "reign_end": 795,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Bilge Kağan (II)",
+      "reign_start": 795,
+      "reign_end": 808,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Ulug Bilge Kağan",
+      "reign_start": 808,
+      "reign_end": 821,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Külüg Bilge Kağan",
+      "reign_start": 821,
+      "reign_end": 824,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Bilge Tengri Kağan",
+      "reign_start": 824,
+      "reign_end": 832,
+      "notes": ""
+    },
+    {
+      "name": "Ay Tengride Kut Bulmuş Alp Kün Tengri Kağan",
+      "reign_start": 832,
+      "reign_end": 839,
+      "notes": "Kırgız saldırıları sonucu yıkılış"
+    }
+  ],
+  "Karahanlılar": [
+  {
+    "name": "Bilge Kül Kadir Han",
+    "reign_start": 840,
+    "reign_end": 893,
+    "notes": "Karahanlı Devleti’nin kurucusu"
+  },
+  {
+    "name": "Oghulchak Kadir Han",
+    "reign_start": 893,
+    "reign_end": 893,
+    "notes": "Kısa süre hükümdar"
+  },
+  {
+    "name": "Satuk Buğra Han",
+    "reign_start": 924,
+    "reign_end": 955,
+    "notes": "İslamiyet’i kabul eden ilk Karahanlı hükümdarı"
+  },
+  {
+    "name": "Musa Baytaş Han",
+    "reign_start": 955,
+    "reign_end": 958,
+    "notes": "İslamiyet’in yayılmasını hızlandırdı"
+  },
+  {
+    "name": "Ali Arslan Kara Han",
+    "reign_start": 958,
+    "reign_end": 970,
+    "notes": ""
+  },
+  {
+    "name": "Hasan b. Sulayman (Tabgaç Buğra Kara Hakan)",
+    "reign_start": 970,
+    "reign_end": 992,
+    "notes": ""
+  },
+  {
+    "name": "Nasr b. Ali (Bughra Khan Harun)",
+    "reign_start": 992,
+    "reign_end": 999,
+    "notes": "Samanoğullarını yıktı"
+  },
+  {
+    "name": "Yusuf Kadir Han",
+    "reign_start": 999,
+    "reign_end": 1005,
+    "notes": ""
+  },
+  {
+    "name": "Ali Tegin",
+    "reign_start": 1024,
+    "reign_end": 1034,
+    "notes": "Doğu Karahanlı hükümdarı"
+  },
+  {
+    "name": "Muhammed Buğra Han",
+    "reign_start": 1042,
+    "reign_end": 1052,
+    "notes": ""
+  },
+  {
+    "name": "I. İbrahim",
+    "reign_start": 1052,
+    "reign_end": 1068,
+    "notes": ""
+  },
+  {
+    "name": "Şemsülmülk Nasr",
+    "reign_start": 1068,
+    "reign_end": 1080,
+    "notes": ""
+  },
+  {
+    "name": "Ahmed Han",
+    "reign_start": 1080,
+    "reign_end": 1089,
+    "notes": ""
+  },
+  {
+    "name": "Cibril Arslan Han",
+    "reign_start": 1089,
+    "reign_end": 1102,
+    "notes": ""
+  },
+  {
+    "name": "Arslan Han Mahmud",
+    "reign_start": 1102,
+    "reign_end": 1130,
+    "notes": ""
+  },
+  {
+    "name": "II. İbrahim",
+    "reign_start": 1130,
+    "reign_end": 1158,
+    "notes": ""
+  },
+  {
+    "name": "II. Mahmud",
+    "reign_start": 1158,
+    "reign_end": 1178,
+    "notes": ""
+  },
+  {
+    "name": "III. İbrahim",
+    "reign_start": 1178,
+    "reign_end": 1204,
+    "notes": "Karahanlıların son hükümdarlarından"
+  },
+  {
+    "name": "Uthman",
+    "reign_start": 1204,
+    "reign_end": 1212,
+    "notes": "Karahanlı Devleti’nin son hükümdarı, Harzemşahlar tarafından yıkıldı"
+  }
+],
+"Buyuk_Selcuklular": [
+  {
+    "name": "Tuğrul Bey",
+    "reign_start": 1037,
+    "reign_end": 1063,
+    "notes": "Büyük Selçuklu Devleti’nin kurucusu"
+  },
+  {
+    "name": "Alp Arslan",
+    "reign_start": 1063,
+    "reign_end": 1072,
+    "notes": "Malazgirt Meydan Muharebesi (1071) ile Anadolu’nun kapılarını Türklere açtı"
+  },
+  {
+    "name": "Melikşah",
+    "reign_start": 1072,
+    "reign_end": 1092,
+    "notes": "Büyük Selçuklu Devleti en geniş sınırlarına ulaştı"
+  },
+  {
+    "name": "Mahmud",
+    "reign_start": 1092,
+    "reign_end": 1094,
+    "notes": "Taht kavgaları dönemi başladı"
+  },
+  {
+    "name": "Berk-Yaruk",
+    "reign_start": 1094,
+    "reign_end": 1105,
+    "notes": "İç karışıklıklar dönemi"
+  },
+  {
+    "name": "Muhammed Tapar",
+    "reign_start": 1105,
+    "reign_end": 1118,
+    "notes": "Düzen sağlanmaya çalışıldı"
+  },
+  {
+    "name": "Sencer",
+    "reign_start": 1118,
+    "reign_end": 1157,
+    "notes": "Büyük Selçuklu Devleti’nin son güçlü hükümdarı; 1157’de ölümünden sonra devlet hızla yıkıldı"
+  }
+],
+"Anadolu_Selcuklulari": [
+  {
+    "name": "Kutalmışoğlu Süleyman Şah",
+    "reign_start": 1075,
+    "reign_end": 1086,
+    "notes": "Anadolu Selçuklu Devleti’nin kurucusu"
+  },
+  {
+    "name": "I. Kılıç Arslan",
+    "reign_start": 1092,
+    "reign_end": 1107,
+    "notes": "Haçlı Seferleri ile mücadele etti"
+  },
+  {
+    "name": "Şahinşah",
+    "reign_start": 1107,
+    "reign_end": 1116,
+    "notes": ""
+  },
+  {
+    "name": "I. Mesud",
+    "reign_start": 1116,
+    "reign_end": 1155,
+    "notes": "Devleti toparladı"
+  },
+  {
+    "name": "II. Kılıç Arslan",
+    "reign_start": 1155,
+    "reign_end": 1192,
+    "notes": "Miryokefalon Zaferi (1176)"
+  },
+  {
+    "name": "I. Gıyaseddin Keyhüsrev",
+    "reign_start": 1192,
+    "reign_end": 1196,
+    "notes": "İlk kez tahta çıktı"
+  },
+  {
+    "name": "II. Süleyman Şah",
+    "reign_start": 1196,
+    "reign_end": 1204,
+    "notes": ""
+  },
+  {
+    "name": "I. Rükneddin Süleyman Şah",
+    "reign_start": 1204,
+    "reign_end": 1204,
+    "notes": "Kısa süreli hükümdar"
+  },
+  {
+    "name": "I. Gıyaseddin Keyhüsrev (2. kez)",
+    "reign_start": 1205,
+    "reign_end": 1211,
+    "notes": "Antalya ve Sinop fetihleri"
+  },
+  {
+    "name": "I. İzzeddin Keykavus",
+    "reign_start": 1211,
+    "reign_end": 1220,
+    "notes": "Sinop’un alınması, Trabzon üzerine sefer"
+  },
+  {
+    "name": "I. Alaeddin Keykubad",
+    "reign_start": 1220,
+    "reign_end": 1237,
+    "notes": "Anadolu Selçukluları en parlak dönemine ulaştı"
+  },
+  {
+    "name": "II. Gıyaseddin Keyhüsrev",
+    "reign_start": 1237,
+    "reign_end": 1246,
+    "notes": "Moğollar ile karşı karşıya gelindi"
+  },
+  {
+    "name": "II. İzzeddin Keykavus",
+    "reign_start": 1246,
+    "reign_end": 1262,
+    "notes": "Kardeşleri ile taht mücadeleleri"
+  },
+  {
+    "name": "IV. Rükneddin Kılıç Arslan",
+    "reign_start": 1248,
+    "reign_end": 1265,
+    "notes": "Kardeşleriyle ortak saltanat dönemi"
+  },
+  {
+    "name": "III. Gıyaseddin Keyhüsrev",
+    "reign_start": 1265,
+    "reign_end": 1284,
+    "notes": "Devletin zayıflama dönemi"
+  },
+  {
+    "name": "II. Gıyaseddin Mesud",
+    "reign_start": 1284,
+    "reign_end": 1297,
+    "notes": ""
+  },
+  {
+    "name": "III. Alaeddin Keykubad",
+    "reign_start": 1298,
+    "reign_end": 1302,
+    "notes": "Kısa süreli hükümdarlık"
+  },
+  {
+    "name": "II. Gıyaseddin Mesud (2. kez)",
+    "reign_start": 1303,
+    "reign_end": 1310,
+    "notes": "Anadolu Selçuklu Devleti’nin son hükümdarı"
+  }
+],
+"Osmanli_Imparatorlugu": [
+  {
+    "name": "Osman Gazi",
+    "reign_start": 1299,
+    "reign_end": 1324,
+    "notes": "Osmanlı Beyliği’nin kurucusu"
+  },
+  {
+    "name": "Orhan Gazi",
+    "reign_start": 1324,
+    "reign_end": 1362,
+    "notes": "Bursa fethedildi, beyliğin gücü arttı"
+  },
+  {
+    "name": "I. Murad (Hüdavendigâr)",
+    "reign_start": 1362,
+    "reign_end": 1389,
+    "notes": "Kosova Meydan Muharebesi’nde şehit oldu"
+  },
+  {
+    "name": "Yıldırım Bayezid",
+    "reign_start": 1389,
+    "reign_end": 1402,
+    "notes": "Ankara Savaşı’nda Timur’a yenildi, Fetret Devri başladı"
+  },
+  {
+    "name": "I. Mehmed (Çelebi)",
+    "reign_start": 1413,
+    "reign_end": 1421,
+    "notes": "Fetret Devri’ni sona erdirdi, devleti toparladı"
+  },
+  {
+    "name": "II. Murad",
+    "reign_start": 1421,
+    "reign_end": 1451,
+    "notes": "Varna ve II. Kosova savaşlarını kazandı"
+  },
+  {
+    "name": "Fatih Sultan Mehmet",
+    "reign_start": 1451,
+    "reign_end": 1481,
+    "notes": "İstanbul’u fethederek Orta Çağ’ı kapatıp Yeni Çağ’ı başlattı"
+  },
+  {
+    "name": "II. Bayezid",
+    "reign_start": 1481,
+    "reign_end": 1512,
+    "notes": "Daha sakin ve barışçı bir dönem"
+  },
+  {
+    "name": "Yavuz Sultan Selim",
+    "reign_start": 1512,
+    "reign_end": 1520,
+    "notes": "Çaldıran ve Mercidabık savaşlarını kazandı, halifelik Osmanlılara geçti"
+  },
+  {
+    "name": "Kanuni Sultan Süleyman",
+    "reign_start": 1520,
+    "reign_end": 1566,
+    "notes": "Osmanlı en geniş sınırlara ulaştı, 46 yıl tahta kaldı"
+  },
+  {
+    "name": "II. Selim",
+    "reign_start": 1566,
+    "reign_end": 1574,
+    "notes": "Sokullu Mehmet Paşa’nın etkili olduğu dönem"
+  },
+  {
+    "name": "III. Murad",
+    "reign_start": 1574,
+    "reign_end": 1595,
+    "notes": "Uzun süren savaşlar dönemi"
+  },
+  {
+    "name": "III. Mehmed",
+    "reign_start": 1595,
+    "reign_end": 1603,
+    "notes": "Haçova Meydan Muharebesi"
+  },
+  {
+    "name": "I. Ahmed",
+    "reign_start": 1603,
+    "reign_end": 1617,
+    "notes": "Ekber ve Erşed sistemi getirildi"
+  },
+  {
+    "name": "I. Mustafa",
+    "reign_start": 1617,
+    "reign_end": 1618,
+    "notes": "Tahtan indirildi, sonra tekrar çıktı (1622)"
+  },
+  {
+    "name": "II. Osman (Genç Osman)",
+    "reign_start": 1618,
+    "reign_end": 1622,
+    "notes": "Yeniçeriler tarafından öldürülen ilk Osmanlı padişahı"
+  },
+  {
+    "name": "I. Mustafa (2. kez)",
+    "reign_start": 1622,
+    "reign_end": 1623,
+    "notes": ""
+  },
+  {
+    "name": "IV. Murad",
+    "reign_start": 1623,
+    "reign_end": 1640,
+    "notes": "Disiplinli yönetimi ve sert yasaklarıyla tanındı; Bağdat Seferi"
+  },
+  {
+    "name": "I. İbrahim",
+    "reign_start": 1640,
+    "reign_end": 1648,
+    "notes": "Tahttan indirilip öldürüldü"
+  },
+  {
+    "name": "IV. Mehmed",
+    "reign_start": 1648,
+    "reign_end": 1687,
+    "notes": "En uzun süre tahta kalanlardan; II. Viyana Kuşatması dönemi"
+  },
+  {
+    "name": "II. Süleyman",
+    "reign_start": 1687,
+    "reign_end": 1691,
+    "notes": ""
+  },
+  {
+    "name": "II. Ahmed",
+    "reign_start": 1691,
+    "reign_end": 1695,
+    "notes": ""
+  },
+  {
+    "name": "II. Mustafa",
+    "reign_start": 1695,
+    "reign_end": 1703,
+    "notes": "Karlofça Antlaşması"
+  },
+  {
+    "name": "III. Ahmed",
+    "reign_start": 1703,
+    "reign_end": 1730,
+    "notes": "Lale Devri"
+  },
+  {
+    "name": "I. Mahmud",
+    "reign_start": 1730,
+    "reign_end": 1754,
+    "notes": "Patrona Halil İsyanı sonrası"
+  },
+  {
+    "name": "III. Osman",
+    "reign_start": 1754,
+    "reign_end": 1757,
+    "notes": ""
+  },
+  {
+    "name": "III. Mustafa",
+    "reign_start": 1757,
+    "reign_end": 1774,
+    "notes": ""
+  },
+  {
+    "name": "I. Abdülhamid",
+    "reign_start": 1774,
+    "reign_end": 1789,
+    "notes": "Küçük Kaynarca Antlaşması sonrası dönemi"
+  },
+  {
+    "name": "III. Selim",
+    "reign_start": 1789,
+    "reign_end": 1807,
+    "notes": "Nizam-ı Cedid reformları"
+  },
+  {
+    "name": "IV. Mustafa",
+    "reign_start": 1807,
+    "reign_end": 1808,
+    "notes": "Kısa saltanat dönemi"
+  },
+  {
+    "name": "II. Mahmud",
+    "reign_start": 1808,
+    "reign_end": 1839,
+    "notes": "Yeniçeri Ocağı kaldırıldı (Vaka-i Hayriye)"
+  },
+  {
+    "name": "Abdülmecid",
+    "reign_start": 1839,
+    "reign_end": 1861,
+    "notes": "Tanzimat Fermanı ilan edildi"
+  },
+  {
+    "name": "Abdülaziz",
+    "reign_start": 1861,
+    "reign_end": 1876,
+    "notes": "Donanma güçlendirildi, tahttan indirildi"
+  },
+  {
+    "name": "V. Murad",
+    "reign_start": 1876,
+    "reign_end": 1876,
+    "notes": "En kısa süre tahtta kalan padişah (93 gün)"
+  },
+  {
+    "name": "II. Abdülhamid",
+    "reign_start": 1876,
+    "reign_end": 1909,
+    "notes": "En uzun süre tahtta kalanlardan; 33 yıl padişahlık yaptı"
+  },
+  {
+    "name": "Mehmed Reşad (V. Mehmed)",
+    "reign_start": 1909,
+    "reign_end": 1918,
+    "notes": "I. Dünya Savaşı dönemi"
+  },
+  {
+    "name": "Mehmed Vahdettin (VI. Mehmed)",
+    "reign_start": 1918,
+    "reign_end": 1922,
+    "notes": "Son Osmanlı padişahı; saltanat 1 Kasım 1922’de kaldırıldı"
+  }
+],
+"Pecenekler": [
+  {
+    "name": "Kipçak",
+    "reign_start": 750,
+    "reign_end": 790,
+    "notes": "Peçeneklerin ilk bilinen liderlerinden"
+  },
+  {
+    "name": "Bonyak",
+    "reign_start": 790,
+    "reign_end": 820,
+    "notes": ""
+  },
+  {
+    "name": "Kuber",
+    "reign_start": 820,
+    "reign_end": 850,
+    "notes": ""
+  },
+  {
+    "name": "Tarak",
+    "reign_start": 850,
+    "reign_end": 880,
+    "notes": ""
+  },
+  {
+    "name": "Kurya",
+    "reign_start": 880,
+    "reign_end": 920,
+    "notes": "Bizans ve komşu devletlerle ilişkilerde önemli lider"
+  },
+  {
+    "name": "Sumbat",
+    "reign_start": 920,
+    "reign_end": 980,
+    "notes": "Peçeneklerin son güçlü liderlerinden"
+  }
+],
+"Oguzlar": [
+  {
+    "name": "Toğrül Bey",
+    "reign_start": 600,
+    "reign_end": 640,
+    "notes": "Oğuz boylarının birleşmesinde önemli rol"
+  },
+  {
+    "name": "Selçuk Bey",
+    "reign_start": 700,
+    "reign_end": 750,
+    "notes": "Selçuklu Devleti’nin atası"
+  },
+  {
+    "name": "Arslan Yabgu",
+    "reign_start": 750,
+    "reign_end": 790,
+    "notes": ""
+  },
+  {
+    "name": "Kılıç Arslan Bey",
+    "reign_start": 790,
+    "reign_end": 830,
+    "notes": ""
+  },
+  {
+    "name": "Korkut Bey",
+    "reign_start": 830,
+    "reign_end": 870,
+    "notes": ""
+  },
+  {
+    "name": "Oghuz Khan",
+    "reign_start": 870,
+    "reign_end": 920,
+    "notes": "Efsanevi Oğuz lideri, Oğuz Destanı’nda geçer"
+  }
+],
+"Hazar_Kaganligi": [
+  {
+    "name": "İlteriş Kağan",
+    "reign_start": 650,
+    "reign_end": 670,
+    "notes": "Hazar Kağanlığı’nın kurucusu"
+  },
+  {
+    "name": "Bulan Kağan",
+    "reign_start": 670,
+    "reign_end": 700,
+    "notes": "İslamiyet’i kabul eden ilk Hazar hükümdarı"
+  },
+  {
+    "name": "Abu al-Hasan",
+    "reign_start": 700,
+    "reign_end": 730,
+    "notes": ""
+  },
+  {
+    "name": "Joseph",
+    "reign_start": 950,
+    "reign_end": 969,
+    "notes": "Hazar devletinin en son bilinen hükümdarı"
+  }
+],
+"Harezmsahlar":[
+  {
+    "name": "Anushtegin Gharchai",
+    "reign_start": 1077,
+    "reign_end": 1097,
+    "notes": "Horezmşahlar hanedanının kurucusu"
+  },
+  {
+    "name": "Qutb al-Din Muhammad",
+    "reign_start": 1097,
+    "reign_end": 1127,
+    "notes": ""
+  },
+  {
+    "name": "Ala ad-Din Atsiz",
+    "reign_start": 1127,
+    "reign_end": 1156,
+    "notes": ""
+  },
+  {
+    "name": "Il-Arslan",
+    "reign_start": 1156,
+    "reign_end": 1172,
+    "notes": ""
+  },
+  {
+    "name": "Tekish",
+    "reign_start": 1172,
+    "reign_end": 1200,
+    "notes": "Büyük Selçuklu Devleti ile ilişkiler"
+  },
+  {
+    "name": "Ala ad-Din Muhammad II",
+    "reign_start": 1200,
+    "reign_end": 1220,
+    "notes": "Selçuklular ve Moğollar döneminde önemli hükümdar"
+  },
+  {
+    "name": "Jalal ad-Din Mangburni",
+    "reign_start": 1220,
+    "reign_end": 1231,
+    "notes": "Moğollar tarafından devleti yıkılan son hükümdar"
+  }
+],
+"Altin_Orda_Devleti": [
+  {
+    "name": "Batu Han",
+    "reign_start": 1242,
+    "reign_end": 1255,
+    "notes": "Moğol İmparatorluğu’nun Batı kolunu kurdu"
+  },
+  {
+    "name": "Sartaq Han",
+    "reign_start": 1255,
+    "reign_end": 1256,
+    "notes": "Batu Han’ın oğlu, kısa süre tahta kaldı"
+  },
+  {
+    "name": "Ulaghchi",
+    "reign_start": 1256,
+    "reign_end": 1257,
+    "notes": "Batu Han’ın torunu, tahta çok kısa süre çıktı"
+  },
+  {
+    "name": "Berke Han",
+    "reign_start": 1257,
+    "reign_end": 1266,
+    "notes": "İslamiyeti kabul eden ilk Altın Orda hükümdarı"
+  },
+  {
+    "name": "Mengu-Timur",
+    "reign_start": 1266,
+    "reign_end": 1280,
+    "notes": ""
+  },
+  {
+    "name": "Tuda Mengu",
+    "reign_start": 1280,
+    "reign_end": 1287,
+    "notes": ""
+  },
+  {
+    "name": "Tokhta",
+    "reign_start": 1291,
+    "reign_end": 1312,
+    "notes": "Moğol hanedanının güç kaybettiği dönem"
+  },
+  {
+    "name": "Uzbeg Han",
+    "reign_start": 1313,
+    "reign_end": 1341,
+    "notes": "İslamiyet’i güçlendirdi, uzun saltanat"
+  },
+  {
+    "name": "Tini Beg",
+    "reign_start": 1341,
+    "reign_end": 1342,
+    "notes": ""
+  },
+  {
+    "name": "Jani Beg",
+    "reign_start": 1342,
+    "reign_end": 1357,
+    "notes": "Altın Orda Devleti’nin en güçlü dönemlerinden"
+  },
+  {
+    "name": "Berdi Beg",
+    "reign_start": 1357,
+    "reign_end": 1361,
+    "notes": ""
+  },
+  {
+    "name": "Qulpa",
+    "reign_start": 1361,
+    "reign_end": 1362,
+    "notes": ""
+  },
+  {
+    "name": "Nawruz Beg",
+    "reign_start": 1362,
+    "reign_end": 1364,
+    "notes": ""
+  },
+  {
+    "name": "Mamai",
+    "reign_start": 1364,
+    "reign_end": 1380,
+    "notes": "Siyasi ve askeri güç, gerçek han değil"
+  },
+  {
+    "name": "Tokhtamysh",
+    "reign_start": 1380,
+    "reign_end": 1395,
+    "notes": "Timur tarafından Altın Orda’ya saldırıldı"
+  },
+  {
+    "name": "Temür Qutlugh",
+    "reign_start": 1396,
+    "reign_end": 1407,
+    "notes": "Taht kavgaları ve karışıklık dönemi"
+  },
+  {
+    "name": "Shadi Beg",
+    "reign_start": 1399,
+    "reign_end": 1407,
+    "notes": ""
+  },
+  {
+    "name": "Pulad",
+    "reign_start": 1407,
+    "reign_end": 1410,
+    "notes": ""
+  },
+  {
+    "name": "Ghiyath al-Din",
+    "reign_start": 1410,
+    "reign_end": 1419,
+    "notes": ""
+  },
+  {
+    "name": "Ulugh Muhammad",
+    "reign_start": 1419,
+    "reign_end": 1438,
+    "notes": "Kazan Hanlığı’nı kurdu, Altın Orda’dan ayrıldı"
+  },
+  {
+    "name": "Haji Giray",
+    "reign_start": 1441,
+    "reign_end": 1466,
+    "notes": "Kırım Hanlığı’nı kurdu"
+  },
+  {
+    "name": "Ahmed Khan",
+    "reign_start": 1465,
+    "reign_end": 1481,
+    "notes": ""
+  },
+  {
+    "name": "Muhammad Khan",
+    "reign_start": 1481,
+    "reign_end": 1491,
+    "notes": ""
+  },
+  {
+    "name": "Shah Ali",
+    "reign_start": 1491,
+    "reign_end": 1502,
+    "notes": "Altın Orda Devleti’nin son bilinen hükümdarı"
+  }
+],
+"Cagatay_Hanligi": [
+  {
+    "name": "Çağatay Han",
+    "reign_start": 1225,
+    "reign_end": 1242,
+    "notes": "Moğol İmparatorluğu’nun ikinci oğlu Cengiz Han’ın kurduğu hanlık"
+  },
+  {
+    "name": "Yesüntemiş",
+    "reign_start": 1242,
+    "reign_end": 1252,
+    "notes": "Çağatay’ın oğullarından"
+  },
+  {
+    "name": "Baraq",
+    "reign_start": 1266,
+    "reign_end": 1271,
+    "notes": "Hanlık içinde iktidar mücadelesi"
+  },
+  {
+    "name": "Duwa",
+    "reign_start": 1282,
+    "reign_end": 1307,
+    "notes": "Çağatay Hanlığı’nın en güçlü dönemlerinden"
+  },
+  {
+    "name": "Kaidu",
+    "reign_start": 1271,
+    "reign_end": 1301,
+    "notes": "Moğol İmparatorluğu’na karşı bağımsızlığını korudu"
+  },
+  {
+    "name": "Esen Buqa I",
+    "reign_start": 1309,
+    "reign_end": 1318,
+    "notes": ""
+  },
+  {
+    "name": "Tughluq Timur",
+    "reign_start": 1318,
+    "reign_end": 1325,
+    "notes": ""
+  },
+  {
+    "name": "Esen Buqa II",
+    "reign_start": 1325,
+    "reign_end": 1330,
+    "notes": ""
+  },
+  {
+    "name": "Dawlat Shah",
+    "reign_start": 1330,
+    "reign_end": 1340,
+    "notes": ""
+  },
+  {
+    "name": "Buzan",
+    "reign_start": 1340,
+    "reign_end": 1348,
+    "notes": ""
+  },
+  {
+    "name": "Khalil Sultan",
+    "reign_start": 1348,
+    "reign_end": 1350,
+    "notes": ""
+  },
+  {
+    "name": "Tughluq Temur",
+    "reign_start": 1350,
+    "reign_end": 1360,
+    "notes": ""
+  },
+  {
+    "name": "Timur Bugha",
+    "reign_start": 1360,
+    "reign_end": 1370,
+    "notes": ""
+  },
+  {
+    "name": "Khizr Khwaja",
+    "reign_start": 1370,
+    "reign_end": 1399,
+    "notes": ""
+  },
+  {
+    "name": "Shah Temur",
+    "reign_start": 1400,
+    "reign_end": 1405,
+    "notes": ""
+  },
+  {
+    "name": "Esen Buqa III",
+    "reign_start": 1405,
+    "reign_end": 1420,
+    "notes": "Hanlıkta iç karışıklık dönemi"
+  },
+  {
+    "name": "Khalil Sultan II",
+    "reign_start": 1420,
+    "reign_end": 1440,
+    "notes": ""
+  },
+  {
+    "name": "Sultan Mahmud",
+    "reign_start": 1440,
+    "reign_end": 1457,
+    "notes": ""
+  },
+  {
+    "name": "Khalil Sultan III",
+    "reign_start": 1457,
+    "reign_end": 1480,
+    "notes": ""
+  },
+  {
+    "name": "Babur Temur",
+    "reign_start": 1480,
+    "reign_end": 1500,
+    "notes": ""
+  },
+  {
+    "name": "Abdullah Khan",
+    "reign_start": 1500,
+    "reign_end": 1525,
+    "notes": ""
+  },
+  {
+    "name": "Sultan Said Khan",
+    "reign_start": 1525,
+    "reign_end": 1533,
+    "notes": "Hanlığın son güçlü hükümdarlarından"
+  },
+  {
+    "name": "Abd al-Karim",
+    "reign_start": 1533,
+    "reign_end": 1550,
+    "notes": ""
+  },
+  {
+    "name": "Muhammad Khan",
+    "reign_start": 1550,
+    "reign_end": 1570,
+    "notes": ""
+  },
+  {
+    "name": "Khodja Khwaja",
+    "reign_start": 1570,
+    "reign_end": 1600,
+    "notes": ""
+  },
+  {
+    "name": "Shah Khan",
+    "reign_start": 1600,
+    "reign_end": 1630,
+    "notes": ""
+  },
+  {
+    "name": "Abdur Rahman",
+    "reign_start": 1630,
+    "reign_end": 1650,
+    "notes": "Çağatay Hanlığı’nın zayıflama dönemi"
+  },
+  {
+    "name": "Iskander",
+    "reign_start": 1650,
+    "reign_end": 1680,
+    "notes": "Hanlığın fiilen sona erdiği dönem"
+  }
+],
+"Timur_Imparatorlugu": [
+  {
+    "name": "Timur (Tamerlane)",
+    "reign_start": 1370,
+    "reign_end": 1405,
+    "notes": "İmparatorluğun kurucusu, Orta Asya ve İran’ı kapsayan büyük fetihler"
+  },
+  {
+    "name": "Şah Rukh",
+    "reign_start": 1405,
+    "reign_end": 1447,
+    "notes": "Timur’un oğlu, devletin idari ve kültürel olarak güçlenmesini sağladı"
+  },
+  {
+    "name": "Ulugh Beg",
+    "reign_start": 1447,
+    "reign_end": 1449,
+    "notes": "Astronomi ve bilimle ilgilenen hükümdar, kısa saltanat"
+  },
+  {
+    "name": "Abdullah Mirza",
+    "reign_start": 1449,
+    "reign_end": 1450,
+    "notes": ""
+  },
+  {
+    "name": "Sultan Muhammad",
+    "reign_start": 1450,
+    "reign_end": 1451,
+    "notes": ""
+  },
+  {
+    "name": "Abu Sa'id",
+    "reign_start": 1451,
+    "reign_end": 1469,
+    "notes": "Timur İmparatorluğu’nun son büyük hükümdarı"
+  },
+  {
+    "name": "Husayn Bayqarah",
+    "reign_start": 1469,
+    "reign_end": 1506,
+    "notes": "Herat’ta kültürel bir merkez haline getirdi"
+  }
+],
+"Babur_Imparatorlugu": [
+  {
+    "name": "Babur",
+    "reign_start": 1526,
+    "reign_end": 1530,
+    "notes": "İmparatorluğun kurucusu, Hindistan’ı fethetti"
+  },
+  {
+    "name": "Humayun",
+    "reign_start": 1530,
+    "reign_end": 1540,
+    "notes": "Babur’un oğlu, kısa süreli Hindistan’dan sürgün"
+  },
+  {
+    "name": "Humayun (2. kez)",
+    "reign_start": 1555,
+    "reign_end": 1556,
+    "notes": "Sürgünden döndü ve tahtı geri aldı"
+  },
+  {
+    "name": "Akbar",
+    "reign_start": 1556,
+    "reign_end": 1605,
+    "notes": "Babür İmparatorluğu’nun en parlak dönemi, genişleme ve kültür"
+  },
+  {
+    "name": "Jahangir",
+    "reign_start": 1605,
+    "reign_end": 1627,
+    "notes": ""
+  },
+  {
+    "name": "Shah Jahan",
+    "reign_start": 1628,
+    "reign_end": 1658,
+    "notes": "Tac Mahal’i yaptırdı"
+  },
+  {
+    "name": "Aurangzeb",
+    "reign_start": 1658,
+    "reign_end": 1707,
+    "notes": "İmparatorluğun en geniş sınırlara ulaştığı dönem"
+  },
+  {
+    "name": "Bahadur Shah I",
+    "reign_start": 1707,
+    "reign_end": 1712,
+    "notes": ""
+  },
+  {
+    "name": "Jahandar Shah",
+    "reign_start": 1712,
+    "reign_end": 1713,
+    "notes": ""
+  },
+  {
+    "name": "Farrukhsiyar",
+    "reign_start": 1713,
+    "reign_end": 1719,
+    "notes": ""
+  },
+  {
+    "name": "Muhammad Shah",
+    "reign_start": 1719,
+    "reign_end": 1748,
+    "notes": ""
+  },
+  {
+    "name": "Ahmad Shah Bahadur",
+    "reign_start": 1748,
+    "reign_end": 1754,
+    "notes": ""
+  },
+  {
+    "name": "Alamgir II",
+    "reign_start": 1754,
+    "reign_end": 1759,
+    "notes": ""
+  },
+  {
+    "name": "Shah Jahan III",
+    "reign_start": 1759,
+    "reign_end": 1760,
+    "notes": ""
+  },
+  {
+    "name": "Shah Alam II",
+    "reign_start": 1760,
+    "reign_end": 1806,
+    "notes": ""
+  },
+  {
+    "name": "Akbar Shah II",
+    "reign_start": 1806,
+    "reign_end": 1837,
+    "notes": ""
+  },
+  {
+    "name": "Bahadur Shah II",
+    "reign_start": 1837,
+    "reign_end": 1857,
+    "notes": "Babür İmparatorluğu’nun son hükümdarı, Hindistan’da İngiliz işgali sonrası tahttan indirildi"
+  }
+],
+"Karahitaylar": [
+  {
+    "name": "Yelü Dashi",
+    "reign_start": 1124,
+    "reign_end": 1143,
+    "notes": "Karahitayların kurucusu, Çin’in kuzeyinden göç ederek Orta Asya’yı fethetti"
+  },
+  {
+    "name": "Bayan Qulï",
+    "reign_start": 1143,
+    "reign_end": 1158,
+    "notes": ""
+  },
+  {
+    "name": "Bayan Ögüz",
+    "reign_start": 1158,
+    "reign_end": 1169,
+    "notes": ""
+  },
+  {
+    "name": "George Qulï",
+    "reign_start": 1169,
+    "reign_end": 1180,
+    "notes": ""
+  },
+  {
+    "name": "Toghril Qulï",
+    "reign_start": 1180,
+    "reign_end": 1200,
+    "notes": ""
+  },
+  {
+    "name": "Ala ad-Din",
+    "reign_start": 1200,
+    "reign_end": 1218,
+    "notes": "Moğol istilası ile Karahitaylar sona erdi"
+  }
+],
+"Oguz_Yabgu_Devleti": [
+  {
+    "name": "Toğrül Yabgu",
+    "reign_start": 600,
+    "reign_end": 630,
+    "notes": "Oğuzların ilk Yabgusu, devletin kurucusu"
+  },
+  {
+    "name": "Selçuk Yabgu",
+    "reign_start": 630,
+    "reign_end": 650,
+    "notes": "Selçukluların atası"
+  },
+  {
+    "name": "Arslan Yabgu",
+    "reign_start": 650,
+    "reign_end": 680,
+    "notes": ""
+  },
+  {
+    "name": "Korkut Yabgu",
+    "reign_start": 680,
+    "reign_end": 720,
+    "notes": ""
+  },
+  {
+    "name": "Oghuz Khan (efsanevi)",
+    "reign_start": 720,
+    "reign_end": 744,
+    "notes": "Devletin efsanevi lideri, Oğuz Destanı’nda geçer"
+  }
+],
+"Karluklar": [
+  {
+    "name": "Bilge Kulun Beg",
+    "reign_start": 742,
+    "reign_end": 780,
+    "notes": "Karlukların kurucusu"
+  },
+  {
+    "name": "Kutluk Bilge",
+    "reign_start": 780,
+    "reign_end": 820,
+    "notes": ""
+  },
+  {
+    "name": "Ulag Beg",
+    "reign_start": 820,
+    "reign_end": 860,
+    "notes": ""
+  },
+  {
+    "name": "Arslan Khan",
+    "reign_start": 860,
+    "reign_end": 900,
+    "notes": ""
+  },
+  {
+    "name": "Suluk Khan",
+    "reign_start": 900,
+    "reign_end": 950,
+    "notes": ""
+  },
+  {
+    "name": "Tughril Khan",
+    "reign_start": 950,
+    "reign_end": 1000,
+    "notes": ""
+  },
+  {
+    "name": "Yabgu Mahmud",
+    "reign_start": 1000,
+    "reign_end": 1050,
+    "notes": "Karlukların Orta Asya’daki son büyük hükümdarı"
+  }
+],
+"Kipcaklar": [
+  {
+    "name": "Batu Han",
+    "reign_start": 1227,
+    "reign_end": 1255,
+    "notes": "Altın Orda Devleti'nin kurucusu, Cengiz Han'ın torunu."
+  },
+  {
+    "name": "Sartaq Han",
+    "reign_start": 1255,
+    "reign_end": 1256,
+    "notes": "Batu Han'ın oğlu, kısa süreli hükümdarlık."
+  },
+  {
+    "name": "Berke Han",
+    "reign_start": 1257,
+    "reign_end": 1266,
+    "notes": "İslamiyet'i kabul eden ilk Altın Orda hükümdarı."
+  },
+  {
+    "name": "Mengu Timur",
+    "reign_start": 1266,
+    "reign_end": 1280,
+    "notes": "Batu Han'ın torunu, devletin yönetiminde önemli reformlar yaptı."
+  },
+  {
+    "name": "Tokhta",
+    "reign_start": 1287,
+    "reign_end": 1302,
+    "notes": "Devletin batı sınırlarını güçlendirdi."
+  },
+  {
+    "name": "Özbek Han",
+    "reign_start": 1313,
+    "reign_end": 1341,
+    "notes": "Altın Orda Devleti'nin en parlak dönemini yaşatan hükümdar."
+  },
+  {
+    "name": "Jani Beg",
+    "reign_start": 1342,
+    "reign_end": 1357,
+    "notes": "İslamiyet'in yayılmasında önemli rol oynadı."
+  },
+  {
+    "name": "Toqta",
+    "reign_start": 1291,
+    "reign_end": 1312,
+    "notes": "Devletin doğu bölgelerinde etkinlik gösterdi."
+  }
+],
+"Hunikler_Akhunlar": [
+  {
+    "name": "Balamber",
+    "reign_start": "M.S. 370",
+    "reign_end": "M.S. 376",
+    "notes": "Huniklerin bilinen ilk hükümdarı."
+  },
+  {
+    "name": "Uldin",
+    "reign_start": "M.S. 390",
+    "reign_end": "M.S. 411",
+    "notes": "Roma İmparatorluğu ile ilişkileriyle tanınır."
+  },
+  {
+    "name": "Donatus",
+    "reign_start": "M.S. 411",
+    "reign_end": "M.S. 412",
+    "notes": "Kısa süreli hükümdarlık."
+  },
+  {
+    "name": "Charato",
+    "reign_start": "M.S. 411",
+    "reign_end": "M.S. 430",
+    "notes": "Roma İmparatorluğu ile çatışmalar yaşadı."
+  },
+  {
+    "name": "Mihirakula",
+    "reign_start": "M.S. 515",
+    "reign_end": "M.S. 540",
+    "notes": "Hint kaynaklarında zalim hükümdar olarak tanınır."
+  }
+],
+"Kimekler": [
+  {
+    "name": "Abar Han",
+    "reign_start": "9. yy",
+    "reign_end": "10. yy",
+    "notes": "Kimek Devleti'nin kurucusu."
+  },
+  {
+    "name": "Alip Derek",
+    "reign_start": "10. yy",
+    "reign_end": "11. yy",
+    "notes": "Devletin yönetiminde önemli reformlar yaptı."
+  },
+  {
+    "name": "Inalchiq",
+    "reign_start": "10. yy",
+    "reign_end": "11. yy",
+    "notes": "Kimek Devleti'nin son hükümdarı."
+  }
+],
+"Turkiye_Cumhuriyeti": [
+  {
+    "name": "Mustafa Kemal Atatürk",
+    "reign_start": 1923,
+    "reign_end": 1938,
+    "notes": "Türkiye Cumhuriyeti’nin kurucusu ve ilk Cumhurbaşkanı"
+  },
+  {
+    "name": "İsmet İnönü",
+    "reign_start": 1938,
+    "reign_end": 1950,
+    "notes": "İkinci Cumhurbaşkanı, İkinci Dünya Savaşı sırasında ülkeyi yönetti"
+  },
+  {
+    "name": "Celal Bayar",
+    "reign_start": 1950,
+    "reign_end": 1960,
+    "notes": "Üçüncü Cumhurbaşkanı, Demokrat Parti dönemi"
+  },
+  {
+    "name": "Cemal Gürsel",
+    "reign_start": 1961,
+    "reign_end": 1966,
+    "notes": "1960 darbesi sonrası Cumhurbaşkanı"
+  },
+  {
+    "name": "Cevdet Sunay",
+    "reign_start": 1966,
+    "reign_end": 1973,
+    "notes": ""
+  },
+  {
+    "name": "Fahri Korutürk",
+    "reign_start": 1973,
+    "reign_end": 1980,
+    "notes": ""
+  },
+  {
+    "name": "Kenan Evren",
+    "reign_start": 1982,
+    "reign_end": 1989,
+    "notes": "1980 darbesi sonrası Cumhurbaşkanı"
+  },
+  {
+    "name": "Turgut Özal",
+    "reign_start": 1989,
+    "reign_end": 1993,
+    "notes": ""
+  },
+  {
+    "name": "Süleyman Demirel",
+    "reign_start": 1993,
+    "reign_end": 2000,
+    "notes": ""
+  },
+  {
+    "name": "Ahmet Necdet Sezer",
+    "reign_start": 2000,
+    "reign_end": 2007,
+    "notes": ""
+  },
+  {
+    "name": "Abdullah Gül",
+    "reign_start": 2007,
+    "reign_end": 2014,
+    "notes": ""
+  },
+  {
+    "name": "Recep Tayyip Erdoğan",
+    "reign_start": 2014,
+    "reign_end": "günümüz",
+    "notes": "Şu anki Cumhurbaşkanı"
+  }
+]
+}

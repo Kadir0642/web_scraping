@@ -1,0 +1,3282 @@
+[
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Üze kök tengri asra yagız yir kılındukda ikin ara kişi oglı kılınmış.",
+    "anlam": "Üstte mavi gök, altta kara yer yaratıldığında, ikisinin arasında insanoğlu yaratılmış."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türük bodun yok bolmazun tiyin, Türk budunuñ eli törüsin tuta birmiş.",
+    "anlam": "Türk milleti yok olmasın diye, Türk milletinin devletini ve yasasını düzenlemiş."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Küçlüg bodunug kanıg sabımıs, bodunug tok ermiş.",
+    "anlam": "Güçlü milletini hakanı doyurmuş, halkını zengin etmiş."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Az bodunug arturmuş, yablak bodunug yagız kılmış.",
+    "anlam": "Az olan halkını çoğaltmış, fakir olan halkını zengin yapmış."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Köŋülüm içre yimeki taşru boltı.",
+    "anlam": "İçimdeki düşüncem dışarıya vurdu."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türük bodunug itmiş erinç, yagız yir kılındukda.",
+    "anlam": "Türk milleti yaratılmıştır, kara yer yaratıldığında."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Kanı bodunug sabımış, bodunug tok ermiş.",
+    "anlam": "Hakan halkını doyurmuş, halkını zengin etmiş."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Atlı er başlı er.",
+    "anlam": "At sahibi olan kişi güçlü kişidir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Er atın yorga bilür.",
+    "anlam": "Yiğit atının huyunu bilir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Alp er atın tüzler.",
+    "anlam": "Yiğit, atını düzene sokar."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Til agzı kılıç agzı.",
+    "anlam": "Dil yarası kılıç yarası gibidir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yig erniñ sözi ig.",
+    "anlam": "Yiğit kişinin sözü değerli olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Kişi özi ermiş, sözi ermez.",
+    "anlam": "Kişi kendisi yiğitmiş, ama sözü yiğit değilmiş."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yig er atın sorar.",
+    "anlam": "Yiğit adam atını sorar, yani hazırlığını yapar."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Aq sakal aqıl bildirir.",
+    "anlam": "Ak sakal (yaşlı) akıl öğretir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Köni söz kaŋa yarar.",
+    "anlam": "Doğru söz kime fayda vermez ki?"
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Kişi sözin tözütür.",
+    "anlam": "Kişi sözünü tartar, düşünür."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Er sözünden bellü olur.",
+    "anlam": "İnsanın değeri sözünden belli olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "At erniŋ qanadıdır.",
+    "anlam": "At, yiğidin kanadıdır."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Ögüt iglikni arturur.",
+    "anlam": "Öğüt, iyiliği artırır."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Arslansız yol bulmaz.",
+    "anlam": "Yiğitsiz yol bulunmaz."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yig er atın tüzler.",
+    "anlam": "Yiğit kişi işini düzene sokar."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Atlı er yol bilir.",
+    "anlam": "At sahibi olan kişi yolunu bilir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Köŋül sözi erniŋ kılıcı.",
+    "anlam": "Gönlün sözü yiğidin kılıcıdır."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yig er ölür, sözi kalır.",
+    "anlam": "Yiğit ölür, sözü kalır."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Söz erden artar.",
+    "anlam": "Söz insandan değer bulur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Köni yol ıdığ yol.",
+    "anlam": "Doğru yol, kutsal yoldur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Atı bolgan er küçlüg olur.",
+    "anlam": "Atı olan yiğit güçlü olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Arığ kişi aq söz söyler.",
+    "anlam": "Temiz insan, doğru söz söyler."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Tili tatlu kişi köp dost tutar.",
+    "anlam": "Dili tatlı olan kişi çok dost edinir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yalŋuk söz yarar.",
+    "anlam": "İnsanın sözü fayda verir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Til kılıçdan keskin.",
+    "anlam": "Dil, kılıçtan keskindir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Ögüt erniŋ yolı.",
+    "anlam": "Öğüt, insanın yol göstericisidir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Kişi biligsiz bolmaz.",
+    "anlam": "İnsan bilgisiz olmaz."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Söz ögüt bolur.",
+    "anlam": "Söz, öğüt olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Atlı er yolda kalmaz.",
+    "anlam": "Atlı adam yolda kalmaz."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Törü tutsun erniŋ eli.",
+    "anlam": "Yasa, kişinin elini tutsun."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Til yıpar, baş keser.",
+    "anlam": "Dil yıpratır, baş kestirir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yig erniŋ sözi köni.",
+    "anlam": "Yiğidin sözü doğrudur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "At köni bolsa, yol ıdığ olur.",
+    "anlam": "At doğru olursa, yol kutsal olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Yalŋuk tilin bilse, sözde azmaz.",
+    "anlam": "İnsan dilini bilirse, sözünde yanılmaz."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Bilgi erniŋ ışığıdır.",
+    "anlam": "Bilgi, kişinin ışığıdır."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Til erniŋ süsüdür.",
+    "anlam": "Dil, kişinin süsüdür."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Er atı bilen er.",
+    "anlam": "Kişi atıyla yiğittir."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Erniŋ özü sözinden bellü.",
+    "anlam": "Kişi kendini sözünden belli eder."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Söz köni bolsa, yol da köni.",
+    "anlam": "Söz doğru olursa, yol da doğru olur."
+  },
+  {
+    "kaynak": "Divan-ü Lügati’t-Türk",
+    "metin": "Til erniŋ qalqandır.",
+    "anlam": "Dil, kişinin kalkanıdır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Bilgi ile yol bulan azmaz.",
+    "anlam": "Bilgiye dayanan insan yanlış yola sapmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Sözün güzeli az olur.",
+    "anlam": "Özlü söz az ve etkili olur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Akıl kişiye yol gösterir.",
+    "anlam": "İnsanın rehberi akıldır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Öğüt, aklın süsüdür.",
+    "anlam": "Akıl öğütle güzelleşir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Dost, başa taçtır.",
+    "anlam": "Gerçek dost, insan için en değerli şeydir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kötü söz, sahibine zarar verir.",
+    "anlam": "Kötü söz, önce söyleyeni yaralar."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "Yapılan iyilik karşılıksız kalmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Biligsiz kişi, yolunu kaybeder.",
+    "anlam": "Bilgisiz insan, yolunu şaşırır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Adalet mülkün temelidir.",
+    "anlam": "Devletin düzeni adalete dayanır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Sözünü tutmayan, itibarını kaybeder.",
+    "anlam": "Verdiği sözü tutmayan kişi güvenilmez olur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsan, sözü ile tanınır.",
+    "anlam": "Kişinin değeri sözünden belli olur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik, kalıcıdır.",
+    "anlam": "Yapılan iyilik unutulmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Cömertlik, yiğitliktir.",
+    "anlam": "Cömert olmak da kahramanlıktır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Yalancı dost, düşmandan beterdir.",
+    "anlam": "Dost görünüp yalan söyleyen, düşmandan daha tehlikelidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Her işin başı sabırdır.",
+    "anlam": "Sabır olmadan başarı olmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Alçak gönüllülük, büyüklüktür.",
+    "anlam": "Mütevazı olmak, gerçek büyüklüktür."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Çalışkanlık, servet doğurur.",
+    "anlam": "Çalışan insan zenginleşir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Temizlik, iyiliğin yarısıdır.",
+    "anlam": "Temiz olmak, iyiliğin önemli kısmıdır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Akılsız başa taç yakışmaz.",
+    "anlam": "Akılsız yönetici başarılı olamaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyi insan, halkın sığınağıdır.",
+    "anlam": "Halk zor durumda iyi insana sığınır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Zenginlik mal ile değil, gönül iledir.",
+    "anlam": "Gerçek zenginlik, gönül zenginliğidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İlimsizlik, körlüktür.",
+    "anlam": "Bilgisizlik insanı kör eder."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Acele, pişmanlık getirir.",
+    "anlam": "Düşünmeden hareket eden pişman olur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsanın süsü, ahlaktır.",
+    "anlam": "Ahlak, insana en çok yakışandır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Her şeyin ölçüsü vardır.",
+    "anlam": "Hayatta denge önemlidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kazanılmış mal tatlıdır.",
+    "anlam": "Alın teriyle kazanılan mal kıymetlidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin malı, cömertliğinde belli olur.",
+    "anlam": "Yiğidin değeri malını nasıl harcadığından anlaşılır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "At, yiğidin yoldaşıdır.",
+    "anlam": "At, yiğit için en önemli dosttur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Ok, yayı ile güçlüdür.",
+    "anlam": "Her şey destek aldığı şeyle değer bulur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Ana hakkı, Tanrı hakkıdır.",
+    "anlam": "Anneye saygı, Tanrı’ya saygıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit adını iş ile çıkarır.",
+    "anlam": "Yiğit insan yaptığı işlerle tanınır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Oğul ata yadigârıdır.",
+    "anlam": "Evlat, babadan kalan en değerli mirastır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Misafir, Tanrı misafiridir.",
+    "anlam": "Misafir baş tacıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit mal ile değil, şan ile anılır.",
+    "anlam": "Kişi malıyla değil, kahramanlığıyla tanınır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "İyilik eden, karşılığını görür.",
+    "anlam": "Yapılan iyilik boşa gitmez."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Baş kesilse de söz kesilmez.",
+    "anlam": "Yiğit ölse de sözü yaşar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin namı kalır.",
+    "anlam": "Yiğit ölür, ünü kalır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Er kişi sözüne sadık olur.",
+    "anlam": "Yiğit, sözünde durur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Ana dua ederse, yol açılır.",
+    "anlam": "Anne duası insanın önünü açar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kardeş, en büyük destektir.",
+    "anlam": "İnsanın gücü kardeşinden gelir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit dostu için can verir.",
+    "anlam": "Gerçek dostluk uğruna fedakârlık yapılır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "At, yiğidin kanadıdır.",
+    "anlam": "At, yiğide hız ve güç katar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yalan söyleyenin yüzü kara olur.",
+    "anlam": "Yalan söyleyen rezil olur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin sözü, özü ile birdir.",
+    "anlam": "Yiğit, söylediği ile yaşadığı aynı kişidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Misafire ikram eden, hayır bulur.",
+    "anlam": "Misafire ikram eden karşılığını görür."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kadın evin direğidir.",
+    "anlam": "Kadın, evin en önemli unsurudur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin sözü kesilmez.",
+    "anlam": "Yiğit sözünü tamamlamadan susturulmaz."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Baş eğmeyen yiğit, düşmanını yener.",
+    "anlam": "Kararlı olan, zafer kazanır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin dostu çok olur.",
+    "anlam": "Yiğit kişi çevresinde çok dost toplar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Ana hakkı ödenmez.",
+    "anlam": "Annenin emeği karşılanamaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaatkâr insanın derdi az olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Gelirin kadar harcama yap."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Üzüm üzüme baka baka kararır.",
+    "anlam": "İnsan çevresindekilerden etkilenir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı, Tanrı hakkı.",
+    "anlam": "Komşuya saygı göstermek kutsal bir görevdir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ne ekersen, onu biçersin.",
+    "anlam": "İnsan ne yaparsa karşılığını görür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu komşunun külüne muhtaçtır.",
+    "anlam": "İnsanlar en küçük şeylerde bile birbirine ihtiyaç duyar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "İnsanın değeri kendi yerinde daha büyüktür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Acele işe şeytan karışır.",
+    "anlam": "Düşünmeden yapılan işte hata olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit düştüğü yerden kalkar.",
+    "anlam": "Yiğit insan kendi gücüyle ayağa kalkar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sakınan göze çöp batar.",
+    "anlam": "Fazla tedbirli olan daha çok zarar görür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Kervan yolda düzülür.",
+    "anlam": "Bir iş yolda veya süreç içinde düzene girer."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit malını, er sözünü saklar.",
+    "anlam": "Yiğit malını korur, er kişi sözünü tutar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Dereyi görmeden paçayı sıvama.",
+    "anlam": "İşi görmeden hazırlığa girişme."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidi öldür, hakkını yeme.",
+    "anlam": "Düşmanına bile adaletli ol."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Davulun sesi uzaktan hoş gelir.",
+    "anlam": "Uzakta görünen şey insana cazip gelir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuda pişer, bize de düşer.",
+    "anlam": "Komşunun kazancından bize de fayda gelir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağına taş değmesin.",
+    "anlam": "Sana zarar gelmesin."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit namıyla yaşar.",
+    "anlam": "Yiğit, kahramanlığıyla hatırlanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sakla samanı, gelir zamanı.",
+    "anlam": "Değersiz görünen şeyin bile bir gün işe yarayacağı olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş taş üstüne konmazsa duvar olmaz.",
+    "anlam": "Küçük şeyler birleşmeden büyük işler olmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Su testisi su yolunda kırılır.",
+    "anlam": "İnsan neyle uğraşırsa onunla helak olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit işte belli olur.",
+    "anlam": "Yiğidin değeri yaptığı işte anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağı sağlam basan, tökezlemez.",
+    "anlam": "Sağlam iş yapan hata yapmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At binicisine göre kişner.",
+    "anlam": "İnsan elindeki imkânı kendi kabiliyetine göre kullanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "El elden üstündür.",
+    "anlam": "Her zaman bir bilen, bir güçlü vardır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Üzüm üzüme baka baka kararır.",
+    "anlam": "İnsan çevresinden etkilenir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin yüreği dar olmaz.",
+    "anlam": "Yiğit insan cesurdur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At beslenir, yiğit onur ile yaşar.",
+    "anlam": "At bakımla, yiğit şerefiyle değer kazanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Dost kara günde belli olur.",
+    "anlam": "Gerçek dost zor zamanda anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuluk hakkı gözetilmezse bereket olmaz.",
+    "anlam": "Komşuya saygı olmadan huzur olmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit atıyla, kadın kocasıyla övünür.",
+    "anlam": "Yiğit atına, kadın eşine güvenerek övünür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atı olanın yolu açıktır.",
+    "anlam": "At sahibi insan engelleri aşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit sözünden bellidir.",
+    "anlam": "Yiğidin değeri konuşmasından anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "El el ile, değirmen taşını döndürür.",
+    "anlam": "İnsanlar birlikte çalışarak iş başarır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At biniciyi taşır, yiğit sözü taşır.",
+    "anlam": "At insanı taşır, yiğit de sözüyle yaşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "Yapılan iyilik karşılıksız kalmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Kardeş kardeşi atın üstünde tanımaz.",
+    "anlam": "Menfaat için kardeş bile birbirini tanımaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Körle yatan şaşı kalkar.",
+    "anlam": "İnsan kötü arkadaştan zarar görür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin harmanı dostuna kalır.",
+    "anlam": "Yiğidin kazancı dostlarına yarar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Aç koynunda yatmaz.",
+    "anlam": "Aç insan sabırsızdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi dorudan çıkar.",
+    "anlam": "Değerli şey belli olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin özü sözü birdir.",
+    "anlam": "Yiğit ne derse onu yapar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu aç iken tok yatan bizden değildir.",
+    "anlam": "Komşusu açken tok yatan insanlık yapmamıştır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi dorudan belli olur.",
+    "anlam": "Değerli şey kendini gösterir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit malını saklamaz.",
+    "anlam": "Yiğit cömert olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi yolda belli olur.",
+    "anlam": "İnsanın değeri zor zamanda belli olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik edenin ömrü uzun olur.",
+    "anlam": "İyilik yapan huzurlu yaşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At koşan yorulmaz, yiğit çalışan yorulmaz.",
+    "anlam": "Çalışkan insan yorulmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin gönlü geniş olur.",
+    "anlam": "Yiğit insan cömerttir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atına bakmayan, yaya kalır.",
+    "anlam": "İşine bakmayan zor durumda kalır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin dostu çok olur.",
+    "anlam": "Yiğit insanın çevresi geniştir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atını seven çiftten sakınmaz.",
+    "anlam": "İnsan değer verdiği şey için çaba harcar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit kendini işte belli eder.",
+    "anlam": "Kişinin değeri yaptığı işte ortaya çıkar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi dorudan, yiğidin iyisi sözünden belli olur.",
+    "anlam": "Atın ve yiğidin değeri dışarıdan anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşunun külü bile değerlidir.",
+    "anlam": "Komşuluk hakkı küçümsenmez."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At, yiğidin kanadıdır.",
+    "anlam": "At, yiğidin en büyük yardımcısıdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit sözüne sadık olur.",
+    "anlam": "Yiğit insan verdiği sözü tutar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At besleyen, yol gider.",
+    "anlam": "Hazırlıklı olan, işini başarır."
+  },
+  [
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ak akçe kara gün içindir.",
+    "anlam": "Biriktirilen mal kötü günlerde işe yarar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Aç tavuk kendini buğday ambarında sanır.",
+    "anlam": "İhtiyacı olan, hayalini kurar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı gözetmeyen, bereket bulmaz.",
+    "anlam": "Komşusuna saygı göstermeyen huzur bulmaz."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milleti, adını ve şanını yüceltsin diye babalarımız gece uyumadı, gündüz oturmadı.",
+    "anlam": "Atalarımız millet için fedakârlık etti."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Balık baştan kokar.",
+    "anlam": "Bir kurumun bozulması başından başlar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Baba koruk yer, oğlunun dişi kamaşır.",
+    "anlam": "Ebeveynin hatası evlada yansır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Akılsız başın cezasını ayaklar çeker.",
+    "anlam": "Düşüncesiz kararın zararını vücut çeker."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Bin düşünüp bir söyle.",
+    "anlam": "Konuşmadan önce çok düşün."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ağaç yaş iken eğilir.",
+    "anlam": "İnsan küçük yaşta eğitilmelidir."
+  },
+  {
+    "kaynak": "Oğuz töresi sözü",
+    "metin": "Yiğit, atı ve sözü ile tanınır.",
+    "anlam": "Yiğidin değeri atı ve sözüyle belli olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı Tanrı hakkıdır.",
+    "anlam": "Komşuya saygı kutsaldır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Gelirine göre harca."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "El elden üstündür.",
+    "anlam": "Daima senden iyisi vardır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "İyilik karşılıksız kalmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Üzüm üzüme baka baka kararır.",
+    "anlam": "İnsan çevresinden etkilenir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu komşunun külüne muhtaçtır.",
+    "anlam": "Küçük şeylerde bile yardıma ihtiyaç olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit malını, er sözünü saklar.",
+    "anlam": "Yiğit malını korur, er sözüne sadıktır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Davulun sesi uzaktan hoş gelir.",
+    "anlam": "Uzakta görünen şey cazip gelir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidi öldür, hakkını yeme.",
+    "anlam": "Düşmana bile adil olmak gerekir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "İnsanın değeri kendi yerinde artar."
+  },
+  {
+    "kaynak": "Dede Korkut Sözü",
+    "metin": "Kazan kazanmaz, yiğit şan kazanır.",
+    "anlam": "Mülk değil, şeref insana değer kazandırır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit işte belli olur.",
+    "anlam": "Yiğidin değeri işinden anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At binicisine göre kişner.",
+    "anlam": "Varlık sahibine göre değer kazanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Dost kara günde belli olur.",
+    "anlam": "Gerçek dost zor zamanda anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Su testisi su yolunda kırılır.",
+    "anlam": "İnsan, uğraştığı şeyden zarar görebilir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik edenin ömrü uzun olur.",
+    "anlam": "İyilik yapan huzurla yaşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu açken tok yatan bizden değildir.",
+    "anlam": "Komşusu açken tok yatan insaniyetli değildir."
+  },
+  {
+    "kaynak": "Oğuz töresi sözü",
+    "metin": "At yiğidin kanadıdır.",
+    "anlam": "At, yiğidin en büyük yardımcısıdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Acele işe şeytan karışır.",
+    "anlam": "Düşünmeden yapılan iş hatalı olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sakınan göze çöp batar.",
+    "anlam": "Fazla tedbirli olan daha çok zarar görür."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin özü sözü birdir.",
+    "anlam": "Yiğit ne derse onu yapar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuda pişer, bize de düşer.",
+    "anlam": "Komşunun kazancından bize de fayda gelir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At biniciyi taşır, yiğit sözü taşır.",
+    "anlam": "At insanı taşır, yiğit sözüyle yaşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Körle yatan, şaşı kalkar.",
+    "anlam": "Kötü arkadaş insana zarar verir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Kardeş kardeşi atın üstünde tanımaz.",
+    "anlam": "Menfaat uğruna kardeş bile birbirine sırt çevirebilir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin dostu çok olur.",
+    "anlam": "Yiğit insanın çevresi geniştir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At beslenir, yiğit onur ile yaşar.",
+    "anlam": "At bakımla, yiğit şerefiyle değer bulur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuluk hakkı gözetilmezse bereket olmaz.",
+    "anlam": "Komşuluk olmazsa huzur da olmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi dorudan, yiğidin iyisi sözünden belli olur.",
+    "anlam": "Atın ve yiğidin değeri dışarıdan anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit sözünden bellidir.",
+    "anlam": "Yiğidin değeri konuşmasından anlaşılır."
+  },
+  {
+    "kaynak": "Dede Korkut Sözü",
+    "metin": "Yiğit er meydanında belli olur.",
+    "anlam": "Yiğidin değeri savaşta anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At koşan yorulmaz, yiğit çalışan yorulmaz.",
+    "anlam": "Çalışkan insan yorulmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atına bakmayan, yaya kalır.",
+    "anlam": "İşine bakmayan zor durumda kalır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sakla samanı, gelir zamanı.",
+    "anlam": "Değersiz görünen şeyin bile zamanı gelir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik eden, kötülük görmez.",
+    "anlam": "İyilik yapanın kalbi rahattır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşunun külü bile değerlidir.",
+    "anlam": "Komşuluk hakkı küçümsenmez."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit kendini işte belli eder.",
+    "anlam": "Kişinin değeri işte anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş taş üstüne konmazsa duvar olmaz.",
+    "anlam": "Küçük parçalar birleşmeden büyük iş olmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Dereyi görmeden paçayı sıvama.",
+    "anlam": "İşi görmeden hazırlığa girişme."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit namıyla yaşar.",
+    "anlam": "Yiğit, şerefiyle hatırlanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At besleyen, yol gider.",
+    "anlam": "Hazırlıklı olan işini başarır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "El el ile, değirmen taşını döndürür.",
+    "anlam": "Birlikten kuvvet doğar."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk budunu yok olmasın diye gece uyumadım, gündüz oturmadım.",
+    "anlam": "Devlet için fedakârlık yapılmıştır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağı sağlam basan, tökezlemez.",
+    "anlam": "Sağlam iş yapan hata yapmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Çalışkan demir kapıyı açar.",
+    "anlam": "Emek veren, zorlukları aşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Kervan yolda düzülür.",
+    "anlam": "Bir iş süreç içinde düzene girer."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin harmanı dostuna kalır.",
+    "anlam": "Yiğidin kazancı dostlarına yarar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı gözetmeyen, huzur bulmaz.",
+    "anlam": "Komşuluk hakkına saygı huzur getirir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Aç koynunda yatmaz.",
+    "anlam": "Aç insan sabırlı olmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit gönlüyle büyür.",
+    "anlam": "Yiğidin değeri cesaretiyle artar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi yolda belli olur.",
+    "anlam": "İnsanın değeri zor zamanda anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit malını saklamaz.",
+    "anlam": "Yiğit cömerttir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atına bakmayan, yolun yarısında kalır.",
+    "anlam": "İşine özen göstermeyen yarı yolda kalır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit dostuyla övünür.",
+    "anlam": "Yiğidin değeri dostlarıyla artar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş baş yarar, söz gönül yarar.",
+    "anlam": "Kötü söz kalbe zarar verir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ümit fakirin ekmeğidir.",
+    "anlam": "İnsanı ayakta tutan şey umuttur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaatkâr insan huzurlu olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ağaç meyvesiyle, yiğit sözüyle tanınır.",
+    "anlam": "Değer işten ve sözden anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşunun varı, komşuya da yarar.",
+    "anlam": "Komşunun kazancı diğerine de fayda sağlar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Dost dostun ayıbını örtendir.",
+    "anlam": "Gerçek dost hatayı gizleyendir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At yiğidin yoldaşıdır.",
+    "anlam": "At, yiğidin en yakın yardımcısıdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit, başını eğmez.",
+    "anlam": "Yiğit, onurunu korur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Güneş balçıkla sıvanmaz.",
+    "anlam": "Gerçek gizlenmez."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atını seven çiftten sakınmaz.",
+    "anlam": "Değer verilen şey için çaba harcanır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin gönlü geniş olur.",
+    "anlam": "Yiğit insan cömerttir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu komşuya göçer, köy olur.",
+    "anlam": "Komşuluk birlik getirir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "İyilik eden, kötülük bulmaz.",
+    "anlam": "İyilik yapan huzurla yaşar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit kendini sözünde belli eder.",
+    "anlam": "Yiğidin değeri sözünden anlaşılır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At besleyen, yük taşır.",
+    "anlam": "Hazırlıklı olan sıkıntı çekmez."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit işinde belli olur.",
+    "anlam": "Kişi yaptığı işle değer bulur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu iyiyse, köy de iyidir.",
+    "anlam": "Komşuluk düzeni toplumu düzeltir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At binicisine göre yürür.",
+    "anlam": "İmkân sahibine göre değer bulur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit sözünü sakınmaz.",
+    "anlam": "Yiğit doğruyu söylemekten çekinmez."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşunun ateşi bile ısıtır.",
+    "anlam": "Komşuluk yardımlaşmayı sağlar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit şanıyla yaşar.",
+    "anlam": "Yiğidin değeri şerefiyle artar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atına bakan, yolunu açar.",
+    "anlam": "İşine dikkat eden işini kolay yapar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin yüreği dar olmaz.",
+    "anlam": "Yiğit insan cesur olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı gözetilmezse huzur olmaz.",
+    "anlam": "Komşuya haksızlık eden huzur bulmaz."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Atın iyisi dorudan belli olur.",
+    "anlam": "Değerli şey kendini gösterir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğidin özü sözü birdir.",
+    "anlam": "Yiğit ne derse onu yapar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşunun varlığı, komşuya da fayda sağlar.",
+    "anlam": "Komşunun kazancı diğerine de yarar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At yiğidin kanadıdır.",
+    "anlam": "At, yiğidin en büyük yardımcısıdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit sözüne sadık olur.",
+    "anlam": "Yiğit verdiği sözü tutar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuluk hakkı gözetmek, imanın yarısıdır.",
+    "anlam": "Komşuya saygı kutsaldır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit dostuyla anılır.",
+    "anlam": "Yiğidin değeri dostlarıyla artar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At binicisine yaraşır.",
+    "anlam": "At, sahibine göre değer bulur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit işinde sözünde olur.",
+    "anlam": "Yiğit insan işinde ve sözünde sadıktır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşuluk eden, bereket bulur.",
+    "anlam": "Komşuluk insanın rızkını artırır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At koşturan, yol alır.",
+    "anlam": "Çalışan insan yol kateder."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yiğit gönlüyle bilinir.",
+    "anlam": "Yiğit insan cömerttir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu, komşuya yardım eder.",
+    "anlam": "Komşuluk yardımlaşmayı getirir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "At yiğidin yoldaşıdır.",
+    "anlam": "At, yiğidin en büyük destekçisidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milleti yok olmasın diye gece uyumadım, gündüz oturmadım.",
+    "anlam": "Lider halkı için fedakârlık yapar."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Üstte mavi gök çökmedikçe, altta yağız yer delinmedikçe Türk milleti yok olmayacaktır.",
+    "anlam": "Türk milletinin varlığı ezelidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Beyler milleti için vardır, millet yoksa bey de yoktur.",
+    "anlam": "Halk ile lider birbirine bağlıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, düşmanını yenmekle değil, öfkesini yenmekle büyüktür.",
+    "anlam": "Gerçek kahramanlık sabırdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "İyilik eden, karşılık beklemez.",
+    "anlam": "Cömertlik karşılıksız yapılır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgi, insana yük değil, kanattır.",
+    "anlam": "Bilgi insanı yüceltir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Kişi sözünden tanınır.",
+    "anlam": "İnsan karakterini sözleriyle belli eder."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Yiğit ölse adı kalır.",
+    "anlam": "İnsan geride şöhretiyle anılır."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Kardeşin dostluğu, yolda belli olur.",
+    "anlam": "Gerçek dost zor zamanda anlaşılır."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Söz gümüşse, susmak altındır.",
+    "anlam": "Gereksiz konuşmak yerine susmak değerlidir."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Dost kara günde belli olur.",
+    "anlam": "Gerçek dost sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "İlim, ışık gibidir; yolunu aydınlatır.",
+    "anlam": "Bilgi insanı doğru yola yöneltir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sabreden derviş, muradına ermiş.",
+    "anlam": "Sabır, başarıya ulaştırır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Acele işe şeytan karışır.",
+    "anlam": "Aceleciliğin sonucu kötüdür."
+  },
+  {
+    "kaynak": "Oğuz özdeyişi",
+    "metin": "Töresiz halk, başsız at gibidir.",
+    "anlam": "Kanunsuz toplum düzensiz olur."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Zengin fakiri doyurmazsa, o milletin birliği bozulur.",
+    "anlam": "Toplumsal adalet birlik için gereklidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Ağaç yaş iken eğilir.",
+    "anlam": "İnsan küçükken eğitilir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kılıç kınında paslanmaz.",
+    "anlam": "Değerli olan kendini korur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu komşunun külüne muhtaçtır.",
+    "anlam": "Küçük şeylerde bile yardımlaşma gerekir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Çalışkan arı, balını kendi yer.",
+    "anlam": "Çalışan insan emeğinin karşılığını alır."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Düşmanla savaş, dostla paylaş.",
+    "anlam": "Savaş cesaret, dostluk ise paylaşım ister."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Akıl, yol gösterir; kılıç, güç verir.",
+    "anlam": "Zeka ve güç birlikte değerlidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk halkı, kendine dönersen yine yükselirsin.",
+    "anlam": "Öz değerlerini korumak yükseltir."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Dağ ne kadar yüce olsa da, yol onun üstünden aşar.",
+    "anlam": "Her zorluğun bir çözümü vardır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Üzüm üzüme baka baka kararır.",
+    "anlam": "İnsan çevresinden etkilenir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Harcama gücün kadar yaşa."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Söz oka benzer, çıktımı geri dönmez.",
+    "anlam": "Söylenen söz geri alınmaz."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yalan söyleyenin dostluğu kısa olur.",
+    "anlam": "Yalancıyla dostluk uzun sürmez."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Bey, adaletle hükmederse halk huzur bulur.",
+    "anlam": "Adalet toplumun temelidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Ekin ekmeyen, aç kalır.",
+    "anlam": "Emek vermeyen karşılık bulmaz."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "Her şey yerinde değerlidir."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Yiğidin malı dostuna helaldir.",
+    "anlam": "Yiğit cömert olur."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaat huzur getirir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğitlik mal ile değil, yürek iledir.",
+    "anlam": "Yiğitlik servetten değil cesaretten gelir."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Gölgesiz ağaç olmaz, hatasız insan olmaz.",
+    "anlam": "Herkesin kusuru vardır."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Birlik olan yıkılmaz.",
+    "anlam": "Toplumsal dayanışma güç getirir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ne ekersen, onu biçersin.",
+    "anlam": "İnsan ne yaparsa karşılığını görür."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyi söz, cana ilaçtır.",
+    "anlam": "Tatlı dil gönülleri yumuşatır."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "At ölür, meydan kalır; yiğit ölür, şan kalır.",
+    "anlam": "İnsan adını bırakır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Çivi çiviyi söker.",
+    "anlam": "Bir dert başka bir çareyle çözülür."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Komşu hakkı Tanrı hakkıdır.",
+    "anlam": "Komşuluk kutsaldır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milleti, töresini yitirme!",
+    "anlam": "Gelenek ve töre kaybolmamalıdır."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Altın paslanmaz, iyi insan unutulmaz.",
+    "anlam": "Değerli şey kalıcıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Dost elinden gelen acı da tatlıdır.",
+    "anlam": "Dosttan gelen her şey kabul edilir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı gözetmeyen, huzur bulmaz.",
+    "anlam": "Komşuluk hakkı önemlidir."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Sabrın sonu selamettir.",
+    "anlam": "Sabırla başarı gelir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Beylik eden, adaletli olsun.",
+    "anlam": "Liderin adaleti toplumu ayakta tutar."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Atın iyisi savaşta belli olur.",
+    "anlam": "Değerli olan zorlukta anlaşılır."
+  },
+  [
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milletinin adı, sanı yok olmasın diye uğraştım.",
+    "anlam": "Liderin çabası halk içindir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Aç milleti doyurdum, çıplak milleti giydirdim.",
+    "anlam": "Yönetici halkın refahını sağlar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akılsız başa taç koysan da, bey olmaz.",
+    "anlam": "Bilgisiz insan değerini koruyamaz."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Kişi, dostuyla yücelir.",
+    "anlam": "İnsan çevresinden güç alır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğitlik bir gün, erdem ömür boyudur.",
+    "anlam": "Cesaret geçici, erdem kalıcıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kara gün kararıp kalmaz.",
+    "anlam": "Hiçbir sıkıntı kalıcı değildir."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "El birliği dağ oynatır.",
+    "anlam": "Birlik her zorluğu aşar."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "İyilik karşılıksız kalmaz."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Dostsuz insan, kolsuz insandır.",
+    "anlam": "Dostsuz insan eksik kalır."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Bilge kişi, halka yol gösterir.",
+    "anlam": "Bilgelik toplum için ışık olur."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Yiğidin bileği kılıcına, dili sözüne bağlıdır.",
+    "anlam": "Kahraman güç ve sözle tanınır."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Bölünen millet yok olur.",
+    "anlam": "Birlik olmazsa millet dağılır."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Bilgi hazinedir, açıldıkça çoğalır.",
+    "anlam": "Bilgi paylaştıkça artar."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "İnsan kalbiyle insandır.",
+    "anlam": "Merhamet insanı değerli kılar."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu hakkı gözetilmezse, bereket eksilir.",
+    "anlam": "Komşuluk, rızkı artırır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Sakınılan göze çöp batar.",
+    "anlam": "Aşırı dikkat bazen zarara yol açar."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milletinin gücü, birliğindedir.",
+    "anlam": "Dayanışma milletin temelidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Yumuşak söz, sert taş eritir.",
+    "anlam": "Tatlı dil her kapıyı açar."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Köksüz ağaç olmaz, töresiz millet olmaz.",
+    "anlam": "Gelenek toplumu ayakta tutar."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Emeği olmayanın, ekmeği olmaz.",
+    "anlam": "Çalışmayan karşılık bulmaz."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin atı, kanadı gibidir.",
+    "anlam": "At, kahramanın en büyük yardımcısıdır."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Başsız ordu, gölgesiz ağaca benzer.",
+    "anlam": "Lidersiz topluluk zayıftır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "El elden üstündür.",
+    "anlam": "Her zaman bir başkasının bilgisi daha fazla olabilir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Çalıda gül bitmez.",
+    "anlam": "Kötü ortamda iyilik gelişmez."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Akılsız dost, düşmandan beterdir.",
+    "anlam": "Cahilin dostluğu tehlikelidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyilik, sözle değil, işle olur.",
+    "anlam": "Gerçek iyilik davranışla gösterilir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Milletine ihanet eden, sonunda pişman olur.",
+    "anlam": "İhanet eden zarar görür."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Suyu bulanık olanın, balığı olmaz.",
+    "anlam": "Kötü niyetli insan fayda vermez."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Dostunu söyle, kim olduğunu bileyim.",
+    "anlam": "Kişi dostlarından tanınır."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Dağ dağa kavuşmaz, insan insana kavuşur.",
+    "anlam": "İnsan ilişkileri mutlaka gerçekleşir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Komşu açken tok yatan bizden değildir.",
+    "anlam": "Komşuluk dayanışma gerektirir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Yavaş giden yol alır.",
+    "anlam": "Acele eden değil, sabreden kazanır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit yarasını gizler.",
+    "anlam": "Cesur insan acısını belli etmez."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Aç gözlü doymak bilmez.",
+    "anlam": "Hırslı insanın tatmini yoktur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Yumuşak huylu, halkın sevgilisidir.",
+    "anlam": "İyi huylu insan saygı görür."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk milleti, töresini kaybedince perişan oldu.",
+    "anlam": "Gelenek kaybolunca millet zayıflar."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Kötü dost, insanı yarı yolda bırakır.",
+    "anlam": "Güvenilmeyen dost zararlıdır."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Söz yürekten çıkarsa, yüreğe ulaşır.",
+    "anlam": "Samimi söz etkili olur."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Yiğidin adı ölmez, bedeni ölür.",
+    "anlam": "Kahramanlık kalıcıdır."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "Her şey kendi yerinde değerlidir."
+  },
+  {
+    "kaynak": "Türk atasözü",
+    "metin": "Ayağına taş değmesin.",
+    "anlam": "Sevdiklerine zarar gelmesin dileği."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, anasının duasıyla büyür.",
+    "anlam": "Ana duası insana güç verir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Milletini unutan, kendini de unutur.",
+    "anlam": "Kendi kökünden kopan yok olur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akılsız malını, cahil zamanını ziyan eder.",
+    "anlam": "Bilgisizlik kayıptır."
+  },
+  {
+    "kaynak": "Kırgız atasözü",
+    "metin": "Yalancı çoban, sürüsünü kaybeder.",
+    "anlam": "Yalan güveni yok eder."
+  },
+  {
+    "kaynak": "Kazak atasözü",
+    "metin": "Bilgisiz kişi, kör göze benzer.",
+    "anlam": "Bilgisiz insan faydasızdır."
+  },
+  {
+    "kaynak": "Uygur özdeyişi",
+    "metin": "Küçük iyilik, büyük dostluk getirir.",
+    "anlam": "Ufak iyilikler dostluk doğurur."
+  },
+  {
+    "kaynak": "Manas Destanı",
+    "metin": "Düşmanın küçüğü olmaz.",
+    "anlam": "Düşman her zaman ciddiye alınmalıdır."
+  },
+  [
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Bilgi ile süslenen kişi, yıldız gibi parlar.",
+    "anlam": "Bilgi insanı yüceltir, parlatır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Akıl insana yol gösterir, bilgi onu aydınlatır.",
+    "anlam": "İnsanın rehberi akıl ve bilgidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Adalet mülkün temelidir.",
+    "anlam": "Devletin ve düzenin asıl dayanağı adalettir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik yapanın yolu açık olur.",
+    "anlam": "İyilik insanın işini kolaylaştırır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kötü insanın dostluğu, düşmandan beterdir.",
+    "anlam": "Kötü niyetli dost, açık düşmandan daha tehlikelidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Dünya fanidir, iyilik baki kalır.",
+    "anlam": "Hayat geçicidir ama iyilik unutulmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Öfke aklı örter.",
+    "anlam": "Sinir, insanın doğru düşünmesini engeller."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Sabır acıdır, meyvesi tatlıdır.",
+    "anlam": "Sabretmek zor olsa da sonunda güzel sonuç verir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Dil yarası, kılıç yarasından beterdir.",
+    "anlam": "Kötü söz, bedensel yaradan daha kalıcıdır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "Ne ekersen, onu biçersin."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Aç gözlü doymak bilmez.",
+    "anlam": "Hırs insanı asla tatmin etmez."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Hizmet eden yücelir.",
+    "anlam": "Topluma faydalı olan kişi değer kazanır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Alçak gönüllü olan, her zaman sevilir.",
+    "anlam": "Tevazu insanı toplumda saygın yapar."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsanın süsü edeptir.",
+    "anlam": "En güzel ziynet, iyi ahlaktır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kibir insanı küçültür.",
+    "anlam": "Büyüklük taslayan sonunda değer kaybeder."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kanaat en büyük hazinedir.",
+    "anlam": "Elindekine razı olmak en büyük zenginliktir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Doğru söz, ruhun gıdasıdır.",
+    "anlam": "Hakikat insana huzur verir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Dostluk sadakatle beslenir.",
+    "anlam": "Gerçek dostluk güven üzerine kurulur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Bilgisiz kişi, kör gibidir.",
+    "anlam": "Bilgi eksikliği insanı kör gibi çaresiz bırakır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsan kendi huyundan vazgeçmez.",
+    "anlam": "Tabiat değişmez, insan özünde aynı kalır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Zenginlik mal ile değil, gönül iledir.",
+    "anlam": "Asıl zenginlik kalp zenginliğidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Devlet akılla yaşar.",
+    "anlam": "Bilge yöneticiler devleti ayakta tutar."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Sözünü tutmayan, değerini kaybeder.",
+    "anlam": "Verdiği sözü yerine getirmeyen güvenilmez olur."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsan diliyle ölçülür.",
+    "anlam": "Kişinin değeri sözlerinden anlaşılır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyiliği gizli yap, değeri artsın.",
+    "anlam": "Gösterişsiz iyilik daha makbuldür."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Vefasız dost, zehirli yemiş gibidir.",
+    "anlam": "Sadakatsiz arkadaş insana zarar verir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Beylik, adalet ile sürer.",
+    "anlam": "Yöneticinin gücü adaletinden gelir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsan sabırla büyür.",
+    "anlam": "Zorluklara dayanmak insanı olgunlaştırır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kötü söz, gönül kırar.",
+    "anlam": "Dilini tutmayan başkasını incitir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Açık kalp, huzur verir.",
+    "anlam": "Dürüst ve samimi insan çevresine rahatlık getirir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Yalan, insanı küçültür.",
+    "anlam": "Doğru olmayan söz güveni yok eder."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kardeşlik, candan bağlılıktır.",
+    "anlam": "Gerçek kardeşlik gönülden gelir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik eden, şükür görür.",
+    "anlam": "Yardım eden insan minnetle anılır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Güçlü olan, zayıfa merhamet etsin.",
+    "anlam": "Kuvvetlilerin görevi, güçsüzleri korumaktır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Mal gelir, mal gider; iyi ad kalır.",
+    "anlam": "Dünya malı geçicidir, değerli olan iyi isimdir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Düşmanlık kinle beslenir, dostluk sevgiyle.",
+    "anlam": "İlişkilerin temelinde duygular vardır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Söz, insanı ya yüceltir ya da küçültür.",
+    "anlam": "Konuşma, insanın değerini belirler."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyilik göze görünmez, kalpte hissedilir.",
+    "anlam": "Gerçek iyilik maddi değil, manevidir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Çalışkan olan, her zaman kazanır.",
+    "anlam": "Emek veren başarıya ulaşır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Temizlik imanın yarısıdır.",
+    "anlam": "Temizlik, insanın değerini artırır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Edep, insana değer katar.",
+    "anlam": "Ahlaklı insan toplumda yücelir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Fazilet, insanın en güzel süsüdür.",
+    "anlam": "Erdem, insana değer katan şeydir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İyiliği hatırla, kötülüğü unut.",
+    "anlam": "Güzel şeyleri anmak insana huzur verir."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Cömertlik, zenginliği artırır.",
+    "anlam": "Paylaşan insan daha çok değer kazanır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Doğru yolda yürüyen, şaşmaz.",
+    "anlam": "Hakikat yolunda olan yanılmaz."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Kötülük eden, kötülük bulur.",
+    "anlam": "Ne ekersen, onu biçersin."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Güzel huy, insana servet kazandırır.",
+    "anlam": "İyi ahlak en büyük kazançtır."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "Ölüm haktır, iyilik baki.",
+    "anlam": "İnsan ölür ama iyiliği yaşar."
+  },
+  {
+    "kaynak": "Kutadgu Bilig",
+    "metin": "İnsanlık, insana şeref katar.",
+    "anlam": "İyi insan olmak en büyük şereftir."
+  },
+  [
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, düşmanını yenmekle değil, öfkesini yenmekle büyüktür.",
+    "anlam": "Gerçek kahramanlık sabır ve soğukkanlılıktır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Cömertlik, yiğidin süsüdür.",
+    "anlam": "Cömert insan her zaman değer kazanır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Kardeşin dostluğu, yolda belli olur.",
+    "anlam": "Gerçek dost sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit yarasını gizler.",
+    "anlam": "Cesur insan acısını belli etmez."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğitlik mal ile değil, yürek iledir.",
+    "anlam": "Gerçek kahramanlık cesaretten gelir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin malı dostuna helaldir.",
+    "anlam": "Yiğit cömert olur ve paylaşır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin adı ölmez, bedeni ölür.",
+    "anlam": "Kahramanlık ve şan kalıcıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğidin atı, kanadı gibidir.",
+    "anlam": "At, kahramanın en büyük yardımcısıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, düşmanını yenmeden önce kendini yener.",
+    "anlam": "Önce kendi zaaflarını yenmek gerekir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, sözünü tutan insandır.",
+    "anlam": "Sözünde duran kahramandır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, adaleti elden bırakmaz.",
+    "anlam": "Cesur kişi adaleti gözetir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, aklı ile öne çıkar.",
+    "anlam": "Cesaret tek başına yeterli değildir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülük görse de kin tutmaz.",
+    "anlam": "Kahraman hoşgörülüdür."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, dostunu zor zamanda tanır.",
+    "anlam": "Gerçek dost zorlukta ortaya çıkar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, sabırla büyür.",
+    "anlam": "Zorluklara dayanmak insanı olgunlaştırır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, tevazu ile yükselir.",
+    "anlam": "Alçak gönüllü insan değer kazanır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, doğru sözle tanınır.",
+    "anlam": "İnsanın değeri sözlerinden anlaşılır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, akıllı ise düşmanı yener.",
+    "anlam": "Strateji cesaretten önemlidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkına adaletle hükmeder.",
+    "anlam": "Liderin görevi adalet sağlamaktır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, öfkesini kontrol ederse saygı kazanır.",
+    "anlam": "Sakin ve ölçülü insan sevgi görür."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, bilgili ise hem kendine hem halka yarar.",
+    "anlam": "Bilgi güçtür ve fayda sağlar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, dostunu kıymetli bilir.",
+    "anlam": "Arkadaşlık değerli bir hazinedir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkının iyiliğini düşünür.",
+    "anlam": "Lider halkını öncelikli olarak gözetir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, zorlukta yılmaz.",
+    "anlam": "Cesur insan engeller karşısında vazgeçmez."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülüğü bırakıp iyilik yapar.",
+    "anlam": "Kahraman doğru olanı seçer."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, yardımlaşmayı sever.",
+    "anlam": "Cömertlik ve paylaşım kahramanın özüdür."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, sözünden dönmez.",
+    "anlam": "Güvenilir insan sözünde sadıktır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, merhametiyle bilinir.",
+    "anlam": "Acıyana yardım eden kahraman saygı görür."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, adaletiyle halkı korur.",
+    "anlam": "Adalet, toplumun güvenliğini sağlar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kin tutmaz; affeder.",
+    "anlam": "Hoşgörü kahramanın erdemidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, doğruyu söylemekten çekinmez.",
+    "anlam": "Cesaret sözle de gösterilir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, sabırlı ise başarıya ulaşır.",
+    "anlam": "Sabır, başarıya giden yoldur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, küçük iyilikleri de önemser.",
+    "anlam": "Küçük iyilikler büyük dostluk getirir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülüğe karşı dimdik durur.",
+    "anlam": "Cesur insan adaletsizliğe karşı durur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, bilge kişiden öğüt alır.",
+    "anlam": "Bilgiye değer veren insan akıllı olur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkına güven verir.",
+    "anlam": "Güven, liderin en önemli özelliğidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, sözünü yerine getirir.",
+    "anlam": "Sadakat ve güven kahramanın vasfıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, düşmanını tanır, kendini de.",
+    "anlam": "Öz farkındalık başarıyı getirir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkına örnek olur.",
+    "anlam": "Lider davranışlarıyla rehber olur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülükten kaçınır.",
+    "anlam": "Doğru insan kötü işlerden uzak durur."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, dostunu korur.",
+    "anlam": "Gerçek arkadaşlık korumayı gerektirir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, alçak gönüllüdür.",
+    "anlam": "Tevazu, gerçek kahramanın özelliğidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, bilgisiyle düşmanı alt eder.",
+    "anlam": "Zeka ve bilgi güçten önemlidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülüğü unutmaz, ders çıkarır.",
+    "anlam": "Hatalardan öğrenmek önemlidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, şanını halkıyla paylaşır.",
+    "anlam": "Başarı halkla beraber değer kazanır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, cesaretini doğru işlerde gösterir.",
+    "anlam": "Cesaret doğru amaç için kullanılmalıdır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkına faydalı olur.",
+    "anlam": "Halkına hizmet eden gerçek kahramandır."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, kötülükten uzak durursa huzur bulur.",
+    "anlam": "Doğru insan huzur içinde yaşar."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, adaleti gözetir, halkını korur.",
+    "anlam": "Adalet ve koruma kahramanın görevidir."
+  },
+  {
+    "kaynak": "Dede Korkut",
+    "metin": "Yiğit, halkına örnek olacak sözler söyler.",
+    "anlam": "Sözleriyle lider rehber olur."
+  },
+  [
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı insan, sözünden belli olur.",
+    "anlam": "Bilge kişi sözleriyle tanınır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Dost, zor zamanda belli olur.",
+    "anlam": "Gerçek arkadaş sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Cömertlik, mal ile ölçülmez, gönülle ölçülür.",
+    "anlam": "Gerçek cömertlik kalptendir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Kibir, insanı küçültür.",
+    "anlam": "Gururlu insan değer kaybeder."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Doğru söz, dostluğu güçlendirir.",
+    "anlam": "Sözde dürüstlük güveni artırır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Sabır, en büyük hazinedir.",
+    "anlam": "Zorluklara dayanmak değer kazandırır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Yalancının sözü, güveni yitirir.",
+    "anlam": "Sözünde durmayan itibar kaybeder."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyilik, insanın süsüdür.",
+    "anlam": "Güzel davranış insanı değerli kılar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgi, en iyi arkadaş ve rehberdir.",
+    "anlam": "Bilgi insanı her durumda yönlendirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Zenginlik, kanaat ile tamamlanır.",
+    "anlam": "Elindekine razı olan insan en zenginidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı kişi, düşmanını tanır, kendini bilir.",
+    "anlam": "Öz farkındalık başarı getirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Edep, insanı yüceltir.",
+    "anlam": "İyi ahlak insana değer katar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Sakınan göz, zarardan korunur.",
+    "anlam": "Tedbir insanı tehlikeden korur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Dostluk, sadakatle büyür.",
+    "anlam": "Güven ve bağlılık dostluğu güçlendirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgisiz kişi, kör gibi dolaşır.",
+    "anlam": "Bilgi eksikliği insanı kayıp bırakır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyilik etmek, insanı huzura kavuşturur.",
+    "anlam": "Güzel davranış insana rahatlık getirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı insan, düşmanını önceden bilir.",
+    "anlam": "Strateji başarı için önemlidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Küçük iyilik, büyük dostluk doğurur.",
+    "anlam": "Ufak iyilikler büyük bağlar kurar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Söz, insanın aynasıdır.",
+    "anlam": "Sözleri insanın karakterini yansıtır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Öfke, aklı örter.",
+    "anlam": "Sinirli insan doğru karar veremez."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Adalet, devletin temelidir.",
+    "anlam": "Devlet adaletle ayakta kalır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgelik, korkudan üstündür.",
+    "anlam": "Zeka ve bilgi, korkuyu yener."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Cömert insan, saygı kazanır.",
+    "anlam": "Paylaşan insan toplumda değer görür."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Kötülük eden, sonunda kendine zarar verir.",
+    "anlam": "Ne ekersen onu biçersin."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Düşmanı küçümsemek, hatadır.",
+    "anlam": "Her düşman ciddiye alınmalıdır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyiliği hatırla, kötülüğü unut.",
+    "anlam": "Olumlu şeyleri hatırlamak huzur verir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgili kişi, kendi aklını kullanır.",
+    "anlam": "Akıl ve bilgi beraber çalışır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Sözünü tutan, güven kazanır.",
+    "anlam": "Sadık insan güvenilir olur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı insan, halkını da düşünür.",
+    "anlam": "Liderin görevi halkını gözetmektir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgi, insanın en büyük silahıdır.",
+    "anlam": "Bilgi güç ve koruma sağlar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Küçük akıl, büyük zarara yol açar.",
+    "anlam": "Düşüncesizlik büyük sorunlar doğurur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Dostunu tanı, kendini tanı.",
+    "anlam": "Öz farkındalık ve doğru seçim önemlidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyilik, insanı yüceltir.",
+    "anlam": "Güzel davranış insanı değerli kılar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı kişi, kötülükten uzak durur.",
+    "anlam": "Doğru insan kötülük yapmaz."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Sadakat, dostluğu korur.",
+    "anlam": "Güven dostluğu güçlendirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilge insan, halkına ışık olur.",
+    "anlam": "Bilgi ve erdem toplumu aydınlatır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Tevazu, insanı yüceltir.",
+    "anlam": "Alçak gönüllülük saygı kazandırır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgi, insanı karanlıktan çıkarır.",
+    "anlam": "Bilgisizlikten kurtulmak aydınlanmadır."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı kişi, hatalarından ders alır.",
+    "anlam": "Hatalardan öğrenmek olgunluktur."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Cömertlik, insanı değerli kılar.",
+    "anlam": "Paylaşmak insanı yüceltir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyi söz, kötü niyeti bozar.",
+    "anlam": "Güzel söz kötü niyeti etkisiz kılar."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Düşmanı küçümseme, tedbirli ol.",
+    "anlam": "Her zaman hazırlıklı olmak gerekir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Doğru insan, sözünde durur.",
+    "anlam": "Sadakat, güvenin temelidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Bilgili kişi, başkasına yol gösterir.",
+    "anlam": "Bilgi paylaşmak değerlidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Öfke ve hırs, insanı yıpratır.",
+    "anlam": "Duygular kontrol edilmezse zarar verir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Akıllı insan, doğru zamanını bilir.",
+    "anlam": "Zamanı iyi değerlendirmek başarı getirir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "İyi huy, insanın süsüdür.",
+    "anlam": "Ahlak, insanın en değerli özelliğidir."
+  },
+  {
+    "kaynak": "Divan-ı Lugat’it Türk",
+    "metin": "Düşmanı tanı, dostuna sahip çık.",
+    "anlam": "Doğru ayrım yapmak hayatta önemlidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, sözünde durur, sözünden dönmez.",
+    "anlam": "Güvenilir insan sözünde sadıktır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğitlik, adaletle taçlanır.",
+    "anlam": "Gerçek cesaret adaletle birleşmelidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Düşman, bilgeyi küçümsemez.",
+    "anlam": "Akıllı kişi her zaman saygı görür."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, yiğitliğini sözle gösterir.",
+    "anlam": "Cesur insan davranışları ve sözleriyle tanınır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Güçlü olan, halkına merhamet eder.",
+    "anlam": "Güç, korumak ve yardım etmek için kullanılmalıdır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Bilgi, Türkün en büyük hazinesidir.",
+    "anlam": "Bilgi güç ve koruma sağlar."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, halkını düşmandan korur.",
+    "anlam": "Kahraman, güçlü ve koruyucudur."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Adalet, Türk devletinin temelidir.",
+    "anlam": "Devletin devamı adalete bağlıdır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, kin tutmaz, affeder.",
+    "anlam": "Hoşgörü gerçek kahramanın özelliğidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, doğru sözle yücelir.",
+    "anlam": "Doğru konuşmak insanın değerini artırır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, düşmanı önceden tanır.",
+    "anlam": "Hazırlık başarıyı getirir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, sabırla zorlukları aşar.",
+    "anlam": "Sabır, engelleri aşmanın anahtarıdır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, iyiliği hatırlar, kötülüğü unutur.",
+    "anlam": "Olumlu davranışları hatırlamak huzur verir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, halkına örnek olur.",
+    "anlam": "Lider davranışlarıyla rehber olmalıdır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, yiğitliğiyle tarih yazar.",
+    "anlam": "Cesaret ve kahramanlık kalıcıdır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Bilgili kişi, halkına ışık olur.",
+    "anlam": "Bilgi ve erdem toplumu aydınlatır."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, alçak gönüllü ise saygı görür.",
+    "anlam": "Tevazu insanı yüceltir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, dostunu kıymetli bilir.",
+    "anlam": "Arkadaşlık değerlidir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Yiğit, malı ile değil, yüreği ile ölçülür.",
+    "anlam": "Gerçek değer insanın kalbindedir."
+  },
+  {
+    "kaynak": "Orhun Yazıtları",
+    "metin": "Türk, halkına güven verir.",
+    "anlam": "Güven, liderin en önemli özelliğidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, iyilik bulur.",
+    "anlam": "Ne ekersen, onu biçersin."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Sakınan göze çöp batar, sakınmayan yara alır.",
+    "anlam": "Dikkat ve tedbir önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşunun külüne muhtaçtır.",
+    "anlam": "İnsan, çevresiyle yardımlaşır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Gelirine göre harcama yap."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaatkâr insan huzurludur."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşunun hatırını sorar.",
+    "anlam": "İyi ilişkiler önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Bir elin nesi var, iki elin sesi var.",
+    "anlam": "Birlik ve yardımlaşma önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Azıcık iyilik, çok kötülüğü örter.",
+    "anlam": "Küçük bir iyi davranış bile fark yaratır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "İnsan, kendi memleketinde değerlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ağaç yaş iken eğilir.",
+    "anlam": "İnsanı küçük yaşta eğitmek önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, kötülükten sakınır.",
+    "anlam": "Güzel davranış kötü işlerden uzak durmayı gerektirir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Sakınan, devranı yutar.",
+    "anlam": "Dikkat eden insan, zorluklardan korunur."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşunun aynasıdır.",
+    "anlam": "İyi komşuluk, birbirini yansıtır ve etkiler."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, gönül kazanır.",
+    "anlam": "Yardım eden insan sevgi ve saygı kazanır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ak akçe kara gün içindir.",
+    "anlam": "Biriktirmek zorluklar için gereklidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşuya muhtaçtır.",
+    "anlam": "İnsan birbirine bağımlıdır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, unutmaz.",
+    "anlam": "Güzel işlerin değeri kalıcıdır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Taş yerinde ağırdır, insan yerinde değerlidir.",
+    "anlam": "Değerli olan bulunduğu yerdedir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşuya iyilikle bakar.",
+    "anlam": "İyi ilişkiler, toplumda huzur sağlar."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ayağını yorganına göre uzat, başını rahat et.",
+    "anlam": "Harcamalarını gelirine göre yap."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Azıcık aşım kaygısız başım, kanaat huzurdur.",
+    "anlam": "Azla yetinen insan huzur bulur."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Bir elin nesi var, iki elin sesi var, birlikten kuvvet doğar.",
+    "anlam": "Birlik ve dayanışma önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik, kötülüğe üstün gelir.",
+    "anlam": "Doğru davranış, olumsuzluğu yenebilir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ağaç kökünden beslenir, insan kültüründen.",
+    "anlam": "İnsanın temeli eğitimi ve kültürüdür."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşuya aynadır, birbirini gösterir.",
+    "anlam": "İlişkiler, insanı etkiler ve şekillendirir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Taş taş ile, insan insan ile değer kazanır.",
+    "anlam": "İlişkiler insanın değerini artırır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, gönül kazanır, sevgi bulur.",
+    "anlam": "Yardım eden, karşılık olarak saygı görür."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşuya muhtaçtır, yardımlaşma gereklidir.",
+    "anlam": "İnsan çevresiyle destekleşmelidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ayağını yorganına göre uzat, borca bulaşma.",
+    "anlam": "Gelirine göre harcama yap ve borçlanma."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ak akçe kara gün içindir, hazırlık gerekir.",
+    "anlam": "Zorluklar için önceden hazırlık yapmak önemlidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Azıcık iyilik, çok kötülüğü örter, küçük iyilikler büyük etki yaratır.",
+    "anlam": "Küçük iyilikler bile olumsuzluğu dengeler."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Bir elin nesi var, iki elin sesi var, birlik güç doğurur.",
+    "anlam": "Birlikte hareket etmek başarıyı getirir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Taş yerinde ağırdır, insan yerinde değerlidir, uygun yer önemlidir.",
+    "anlam": "Doğru yer ve konum insanın değerini artırır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, kötülüğü unutur, gönül kazanır.",
+    "anlam": "İyi davranış hem huzur verir hem de saygı kazandırır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ak akçe kara gün içindir, geleceğe hazırlık şarttır.",
+    "anlam": "Önlem almak, zor zamanlar için gereklidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ağaç yaş iken eğilir, insan küçük yaşta öğretilir.",
+    "anlam": "Eğitim küçük yaşta etkilidir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Komşu komşuya iyilikle bakar, birlik sağlar.",
+    "anlam": "İyi ilişkiler toplumu güçlendirir."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Ayağını yorganına göre uzat, borçtan kaçın.",
+    "anlam": "Harcamalarını gelire göre yap."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "İyilik eden, gönül kazanır, saygı görür.",
+    "anlam": "Yardım eden kişi sevgi ve değer kazanır."
+  },
+  {
+    "kaynak": "Türk Atasözleri",
+    "metin": "Azıcık aşım kaygısız başım, kanaat huzurdur.",
+    "anlam": "Azla yetinen kişi huzurludur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, sözünde durur, halkına güven verir.",
+    "anlam": "Güvenilir insan sözünde sadıktır ve toplumuna örnektir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Cömertlik, insanın gönlünde başlar.",
+    "anlam": "Gerçek cömertlik, kalpten gelir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Akıllı kişi, tecrübe ile yol alır.",
+    "anlam": "Deneyim, doğru karar vermeyi sağlar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, en karanlık zamanları aydınlatır.",
+    "anlam": "Güzel davranış zorlukları kolaylaştırır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili insan, halkına rehber olur.",
+    "anlam": "Bilgi paylaşımı toplumu aydınlatır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, öfkesini kontrol eder, saygı kazanır.",
+    "anlam": "Sakin ve ölçülü insan çevresinde saygı görür."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Halkına hizmet eden, gerçek liderdir.",
+    "anlam": "Liderliğin amacı, topluma fayda sağlamaktır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sakınan göz, beladan korunur.",
+    "anlam": "Tedbir, insanı tehlikeden korur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, adaletle hükmeder, halkı mutlu olur.",
+    "anlam": "Adalet, toplumun huzurunu sağlar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Dost, zor zamanda ortaya çıkar.",
+    "anlam": "Gerçek arkadaşlık sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilge kişi, sözünü doğru kullanır.",
+    "anlam": "Söz, bilgelikle değer kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Tevazu, insanı yüceltir.",
+    "anlam": "Alçak gönüllülük saygı kazandırır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sabır, en zor zamanlarda rehberdir.",
+    "anlam": "Zorluklarda dayanmak başarı getirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, malıyla değil, yüreğiyle büyüktür.",
+    "anlam": "Gerçek değer insanın kalbinden gelir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, kötülüğü bozar, gönül kazanır.",
+    "anlam": "Doğru davranış olumsuzluğu etkisiz kılar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Akıllı insan, düşmanını küçümsemez.",
+    "anlam": "Her zaman hazırlıklı ve saygılı olmalıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili kişi, halkının yolunu aydınlatır.",
+    "anlam": "Bilgi ve tecrübe, toplumu ileri taşır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, küçük iyilikleri önemser.",
+    "anlam": "Küçük iyilikler büyük dostluklar doğurur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Düşmanı tanı, kendini de tanı.",
+    "anlam": "Öz farkındalık başarıyı getirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sözünü tutan, halkına güven verir.",
+    "anlam": "Sadakat güveni sağlar ve örnek olur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkına örnek olacak davranışlar sergiler.",
+    "anlam": "Lider, söz ve davranışlarıyla rehber olur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, insanı karanlıktan çıkarır.",
+    "anlam": "Bilgisizlikten kurtulmak aydınlanmadır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, gönül kazanır, saygı görür.",
+    "anlam": "Yardım eden kişi toplumda değer kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Gelirine göre harcama yap."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Komşu komşuya muhtaçtır.",
+    "anlam": "İnsan birbirine bağımlıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ağaç yaş iken eğilir.",
+    "anlam": "İnsanı küçük yaşta eğitmek önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaatkâr insan huzurludur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bir elin nesi var, iki elin sesi var.",
+    "anlam": "Birlik ve yardımlaşma önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, kötülüğü unutmaz.",
+    "anlam": "Güzel işlerin değeri kalıcıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "İnsan, kendi memleketinde değerlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Dostluk, sadakatle büyür.",
+    "anlam": "Güven ve bağlılık dostluğu güçlendirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, en iyi arkadaş ve rehberdir.",
+    "anlam": "Bilgi insanı her durumda yönlendirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, insanı yüceltir.",
+    "anlam": "Güzel davranış insanı değerli kılar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ak akçe kara gün içindir.",
+    "anlam": "Zorluklar için önceden hazırlık yapmak önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Komşu komşunun aynasıdır.",
+    "anlam": "İyi komşuluk, birbirini yansıtır ve etkiler."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, kötülüğü bozar.",
+    "anlam": "Doğru davranış, olumsuzluğu yenebilir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Düşmanı küçümseme, tedbirli ol.",
+    "anlam": "Her zaman hazırlıklı olmak gerekir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili kişi, başkasına yol gösterir.",
+    "anlam": "Bilgi paylaşmak değerlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Öfke ve hırs, insanı yıpratır.",
+    "anlam": "Duygular kontrol edilmezse zarar verir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Akıllı insan, doğru zamanını bilir.",
+    "anlam": "Zamanı iyi değerlendirmek başarı getirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyi huy, insanın süsüdür.",
+    "anlam": "Ahlak, insanın en değerli özelliğidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Düşmanı tanı, dostuna sahip çık.",
+    "anlam": "Doğru ayrım yapmak hayatta önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, cesaretini doğru işlerde gösterir.",
+    "anlam": "Cesaret doğru amaç için kullanılmalıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili kişi, kendi aklını kullanır.",
+    "anlam": "Akıl ve bilgi beraber çalışır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkına faydalı olur.",
+    "anlam": "Halkına hizmet eden gerçek kahramandır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, gönül kazanır.",
+    "anlam": "Yardım eden insan sevgi ve saygı kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sabırlı insan, zorlukları aşar.",
+    "anlam": "Dayanıklılık başarı getirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkının iyiliğini düşünür.",
+    "anlam": "Lider halkını öncelikli olarak gözetir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Cömert insan, saygı kazanır.",
+    "anlam": "Paylaşan insan toplumda değer görür."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, sabırla büyür.",
+    "anlam": "Zorluklara dayanmak insanı olgunlaştırır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, kalıcı iz bırakır.",
+    "anlam": "Güzel işler unutulmaz."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, akıl ve deneyimle birleşir.",
+    "anlam": "Bilgi tek başına yeterli değildir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, adalet ve doğrulukla yücelir.",
+    "anlam": "Cesaret ve doğruluk bir arada değer yaratır."
+  },
+   {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, sözünü yerine getirir.",
+    "anlam": "Güvenilir insan sözünde sadıktır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili kişi, başkalarına yol gösterir.",
+    "anlam": "Bilgi paylaşımı toplumu aydınlatır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Cömertlik, insanı yüceltir.",
+    "anlam": "Paylaşmak insanı değerli kılar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Tevazu, insanın gerçek değeridir.",
+    "anlam": "Alçak gönüllülük saygı kazandırır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sabırlı insan, en zor zamanları aşar.",
+    "anlam": "Dayanıklılık başarı getirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Dost, zor zamanda belli olur.",
+    "anlam": "Gerçek arkadaş sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, insanın en güçlü silahıdır.",
+    "anlam": "Bilgi güç ve koruma sağlar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkına örnek olur.",
+    "anlam": "Lider davranışlarıyla rehber olmalıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, kötülüğü bozar.",
+    "anlam": "Doğru davranış olumsuzluğu etkisiz kılar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Düşmanı küçümseme, tedbirli ol.",
+    "anlam": "Her zaman hazırlıklı olmak gerekir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Akıllı insan, tecrübelerinden ders alır.",
+    "anlam": "Hatalardan öğrenmek olgunluktur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, adaletle hükmeder.",
+    "anlam": "Adalet toplumun huzurunu sağlar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilge kişi, doğru sözle yücelir.",
+    "anlam": "Söz, bilgelikle değer kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Komşu komşunun aynasıdır.",
+    "anlam": "İyi komşuluk birbirini yansıtır ve etkiler."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ayağını yorganına göre uzat.",
+    "anlam": "Gelirine göre harcama yap."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Azıcık aşım kaygısız başım.",
+    "anlam": "Kanaatkâr insan huzurludur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bir elin nesi var, iki elin sesi var.",
+    "anlam": "Birlik ve yardımlaşma önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, gönül kazanır.",
+    "anlam": "Yardım eden kişi toplumda değer kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Taş yerinde ağırdır.",
+    "anlam": "İnsan, kendi memleketinde değerlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Dostluk, sadakatle büyür.",
+    "anlam": "Güven ve bağlılık dostluğu güçlendirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, en iyi arkadaş ve rehberdir.",
+    "anlam": "Bilgi insanı her durumda yönlendirir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik, insanı yüceltir.",
+    "anlam": "Güzel davranış insanı değerli kılar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ak akçe kara gün içindir.",
+    "anlam": "Zorluklar için önceden hazırlık yapmak önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Komşu komşuya muhtaçtır.",
+    "anlam": "İnsan birbirine bağımlıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Ağaç yaş iken eğilir.",
+    "anlam": "İnsanı küçük yaşta eğitmek önemlidir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkına faydalı olmalıdır.",
+    "anlam": "Halkına hizmet eden gerçek kahramandır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, akıl ve deneyimle birleşir.",
+    "anlam": "Bilgi tek başına yeterli değildir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, cesaretini doğru işlerde gösterir.",
+    "anlam": "Cesaret doğru amaç için kullanılmalıdır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Cömert insan, saygı kazanır.",
+    "anlam": "Paylaşan insan toplumda değer görür."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, sabırla büyür.",
+    "anlam": "Zorluklara dayanmak insanı olgunlaştırır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "İyilik eden, kalıcı iz bırakır.",
+    "anlam": "Güzel işler unutulmaz."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgili kişi, halkına ışık olur.",
+    "anlam": "Bilgi ve erdem toplumu aydınlatır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, öfkesini kontrol eder, saygı kazanır.",
+    "anlam": "Sakin ve ölçülü insan çevresinde saygı görür."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Halkına hizmet eden, gerçek liderdir.",
+    "anlam": "Liderliğin amacı, topluma fayda sağlamaktır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Sakınan göz, beladan korunur.",
+    "anlam": "Tedbir, insanı tehlikeden korur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, adaletle hükmeder, halkı mutlu olur.",
+    "anlam": "Adalet, toplumun huzurunu sağlar."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Dost, zor zamanda ortaya çıkar.",
+    "anlam": "Gerçek arkadaşlık sıkıntıda anlaşılır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilge kişi, sözünü doğru kullanır.",
+    "anlam": "Söz, bilgelikle değer kazanır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkına örnek olacak davranışlar sergiler.",
+    "anlam": "Lider, söz ve davranışlarıyla rehber olur."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Bilgi, insanı karanlıktan çıkarır.",
+    "anlam": "Bilgisizlikten kurtulmak aydınlanmadır."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, halkının iyiliğini düşünür.",
+    "anlam": "Lider halkını öncelikli olarak gözetir."
+  },
+  {
+    "kaynak": "Türk Halk Edebiyatı",
+    "metin": "Yiğit, cesaretini doğru işlerde gösterir.",
+    "anlam": "Cesaret doğru amaç için kullanılmalıdır."
+  }
+]
